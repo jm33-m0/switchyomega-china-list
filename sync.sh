@@ -8,8 +8,7 @@ wget -O accelerated-domains.china.conf "$upstream_url" || {
 }
 
 echo "*.cn" >china-list.txt
-awk -F '/' '{print "*."$2}' <accelerated-domains.china.conf >china-list.txt
-awk -F '/' '{print "[/"$2"/]114.114.114.114"}' <accelerated-domains.china.conf >upstream-dns.txt
+awk -F '/' '{print "*."$2}' <accelerated-domains.china.conf >>china-list.txt
 
 echo '
 # upstream servers
@@ -158,11 +157,15 @@ echo '
 [/www.apple.com.edgekey.net.globalredir.akadns.net/]114.114.114.114
 [/www.apple.com.edgekey.net/]114.114.114.114
 [/www.apple.com/]114.114.114.114
-' >>upstream-dns.txt
+
+# Chinese domains
+' >upstream-dns.txt
+
+awk -F '/' '{print "[/"$2"/]114.114.114.114"}' <accelerated-domains.china.conf >>upstream-dns.txt
 
 # commit
-# git config user.name "github-actions"
-# git config user.email "github-actions@users.noreply.github.com"
-# git add .
-# git commit -a -m "Updated by Github Actions"
-# git push
+git config user.name "github-actions"
+git config user.email "github-actions@users.noreply.github.com"
+git add .
+git commit -a -m "Updated by Github Actions"
+git push
