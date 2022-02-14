@@ -20,7 +20,7 @@ jobs:
       - name: List files in the repository
         run: |
           ls -lahZ ${{ github.workspace }}
-      - name: Run publish.sh
+      - name: Run sync.sh
         run: |
           cd ${{ github.workspace }} && bash ./sync.sh
       - run: echo "🍏 This job's status is ${{ job.status }}."
