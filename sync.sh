@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# chnroute
+curl 'http://ftp.apnic.net/apnic/stats/apnic/delegated-apnic-latest' -o chnroute.txt
+
 upstream_url="https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf"
 
 wget -O accelerated-domains.china.conf "$upstream_url" || {
