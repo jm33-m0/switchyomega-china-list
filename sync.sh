@@ -13,17 +13,18 @@ awk -F '/' '{print "*."$2}' <accelerated-domains.china.conf >>china-list.txt
 echo '
 # upstream servers
 10.2.3.1
+https://9.9.9.9/dns-query
 
 # jm33.me
-[/jm33.me/]1.1.1.1
+[/jm33.me/]https://9.9.9.9/dns-query
 
 # connectivity test
 [/msftconnecttest.com/]114.114.114.114
 [/msftncsi.com/]114.114.114.114
-[/googleapis.com/]8.8.8.8
-[/gstatic.com/]8.8.8.8
-[/google.cn/]8.8.8.8
-[/googleapis.cn/]8.8.8.8
+[/googleapis.com/]114.114.114.114
+[/gstatic.com/]114.114.114.114
+[/google.cn/]114.114.114.114
+[/googleapis.cn/]114.114.114.114
 
 # CN domains
 [/cn/]114.114.114.114
