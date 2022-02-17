@@ -9,10 +9,10 @@ https://9.9.9.9/dns-query
 # connectivity test
 [/msftconnecttest.com/]114.114.114.114
 [/msftncsi.com/]114.114.114.114
-[/googleapis.com/]114.114.114.114
-[/gstatic.com/]114.114.114.114
-[/google.cn/]114.114.114.114
-[/googleapis.cn/]114.114.114.114
+# [/googleapis.com/]114.114.114.114
+# [/gstatic.com/]114.114.114.114
+# [/google.cn/]114.114.114.114
+# [/googleapis.cn/]114.114.114.114
 
 # CN domains
 [/cn/]114.114.114.114
