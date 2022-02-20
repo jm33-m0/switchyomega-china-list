@@ -1570,7 +1570,6 @@ https://9.9.9.9/dns-query
 [/15w.com/]114.114.114.114
 [/15wz.com/]114.114.114.114
 [/15xdd.com/]114.114.114.114
-[/15xs.com/]114.114.114.114
 [/15yan.com/]114.114.114.114
 [/15yc.com/]114.114.114.114
 [/15yl.com/]114.114.114.114
@@ -2292,6 +2291,7 @@ https://9.9.9.9/dns-query
 [/204u.com/]114.114.114.114
 [/205.com/]114.114.114.114
 [/206dy.com/]114.114.114.114
+[/2080ly.com/]114.114.114.114
 [/2088062.com/]114.114.114.114
 [/2088063.com/]114.114.114.114
 [/208xs.com/]114.114.114.114
@@ -11289,6 +11289,7 @@ https://9.9.9.9/dns-query
 [/bestbaijiu.com/]114.114.114.114
 [/bestbeibao.com/]114.114.114.114
 [/bestcake.com/]114.114.114.114
+[/bestcdn.vip/]114.114.114.114
 [/bestcem.com/]114.114.114.114
 [/bestdjb.com/]114.114.114.114
 [/bestdo.com/]114.114.114.114
@@ -13496,7 +13497,6 @@ https://9.9.9.9/dns-query
 [/cbi360.net/]114.114.114.114
 [/cbi88.com/]114.114.114.114
 [/cbice.com/]114.114.114.114
-[/cbide.com/]114.114.114.114
 [/cbiec.com/]114.114.114.114
 [/cbiec.net/]114.114.114.114
 [/cbismb.com/]114.114.114.114
@@ -16672,7 +16672,6 @@ https://9.9.9.9/dns-query
 [/cnmo.com/]114.114.114.114
 [/cnmobile.net/]114.114.114.114
 [/cnmods.org/]114.114.114.114
-[/cnmoi.org/]114.114.114.114
 [/cnmsl.net/]114.114.114.114
 [/cnmsn.net/]114.114.114.114
 [/cnmstl.net/]114.114.114.114
@@ -17507,6 +17506,7 @@ https://9.9.9.9/dns-query
 [/cr6868.com/]114.114.114.114
 [/crabchina.com/]114.114.114.114
 [/crackersta.com/]114.114.114.114
+[/gateway.craft.moe/]114.114.114.114
 [/craftcontact.com/]114.114.114.114
 [/crandom.com/]114.114.114.114
 [/crazepony.com/]114.114.114.114
@@ -19894,6 +19894,7 @@ https://9.9.9.9/dns-query
 [/dnsabc-g.com/]114.114.114.114
 [/dnsapple.com/]114.114.114.114
 [/dnsapple.net/]114.114.114.114
+[/dnsce.com/]114.114.114.114
 [/dnscnc.com/]114.114.114.114
 [/dnsddos.com/]114.114.114.114
 [/dnsdiy.com/]114.114.114.114
@@ -27341,6 +27342,7 @@ https://9.9.9.9/dns-query
 [/hbseo.com/]114.114.114.114
 [/hbsfgk.org/]114.114.114.114
 [/hbshbsh.com/]114.114.114.114
+[/hbshengbangwl.com/]114.114.114.114
 [/hbshgzx.com/]114.114.114.114
 [/hbshls.com/]114.114.114.114
 [/hbsia.org/]114.114.114.114
@@ -27491,7 +27493,6 @@ https://9.9.9.9/dns-query
 [/hdingsheng.com/]114.114.114.114
 [/hdj.me/]114.114.114.114
 [/hdjay.com/]114.114.114.114
-[/hdjr.org/]114.114.114.114
 [/hdjwww.com/]114.114.114.114
 [/hdlcdns.com/]114.114.114.114
 [/hdlchina.com/]114.114.114.114
@@ -36254,6 +36255,7 @@ https://9.9.9.9/dns-query
 [/kxyike.com/]114.114.114.114
 [/kxzmw.com/]114.114.114.114
 [/ky-express.com/]114.114.114.114
+[/ky5yx.com/]114.114.114.114
 [/ky958.com/]114.114.114.114
 [/kybapp.com/]114.114.114.114
 [/kybapp.net/]114.114.114.114
@@ -40515,6 +40517,7 @@ https://9.9.9.9/dns-query
 [/miraclevision.net/]114.114.114.114
 [/mirari.cc/]114.114.114.114
 [/mirgaga.net/]114.114.114.114
+[/mirmzhy.com/]114.114.114.114
 [/mirxat.com/]114.114.114.114
 [/misaka.center/]114.114.114.114
 [/misall.com/]114.114.114.114
@@ -43402,7 +43405,6 @@ https://9.9.9.9/dns-query
 [/optaim.com/]114.114.114.114
 [/optbbs.com/]114.114.114.114
 [/opticsjournal.net/]114.114.114.114
-[/opticsx.org/]114.114.114.114
 [/optimix.asia/]114.114.114.114
 [/optimized-ai.com/]114.114.114.114
 [/optinetchina.com/]114.114.114.114
@@ -52940,6 +52942,7 @@ https://9.9.9.9/dns-query
 [/tdnsv6.com/]114.114.114.114
 [/tdnsv8.com/]114.114.114.114
 [/tdpress.com/]114.114.114.114
+[/tdun.com/]114.114.114.114
 [/tduou.com/]114.114.114.114
 [/tdyxmoto.com/]114.114.114.114
 [/tdzyw.com/]114.114.114.114
@@ -61323,7 +61326,6 @@ https://9.9.9.9/dns-query
 [/xshengyan.com/]114.114.114.114
 [/xshenshu.com/]114.114.114.114
 [/xshkvip.com/]114.114.114.114
-[/xshouyi.com/]114.114.114.114
 [/xshrcw.com/]114.114.114.114
 [/xshulin.com/]114.114.114.114
 [/xshuma.com/]114.114.114.114
