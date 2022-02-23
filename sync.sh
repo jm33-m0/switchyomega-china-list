@@ -1,7 +1,9 @@
 #!/bin/bash
 
 # chnroute
-curl 'http://ftp.apnic.net/apnic/stats/apnic/delegated-apnic-latest' -o chnroute.txt
+curl 'http://ftp.apnic.net/apnic/stats/apnic/delegated-apnic-latest' -o /tmp/chnroute.txt && {
+    grep ipv4 /tmp/chnroute.txt | grep CN | awk -F\| '{ printf("%s/%d\n", $4, 32-log($5)/log(2)) }' >chnroute.txt
+}
 
 upstream_url="https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf"
 
