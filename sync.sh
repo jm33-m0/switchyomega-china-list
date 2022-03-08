@@ -168,7 +168,7 @@ https://8.8.8.8/dns-query
 # Chinese domains
 ' >upstream-dns.txt
 
-awk -F '/' '{print "[/"$2"/]/https:\/\/1.12.12.12\/dns-query"}' <accelerated-domains.china.conf >>upstream-dns.txt
+awk -F '/' '{print "[/"$2"/]https:\/\/1.12.12.12\/dns-query"}' <accelerated-domains.china.conf >>upstream-dns.txt
 
 # commit
 git config user.name "github-actions"
