@@ -171,8 +171,9 @@ https://8.8.8.8/dns-query
 awk -F '/' '{print "[/"$2"/]114.114.114.114"}' <accelerated-domains.china.conf >>upstream-dns.txt
 
 # commit
-git config user.name "github-actions"
-git config user.email "github-actions@users.noreply.github.com"
+git config user.name "github-actions[bot]"
+git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+git remote add gh-token "https://${{ secrets.GITHUB_TOKEN }}@github.com/google-github-actions/release-please-action.git"
 git add .
 git commit -a -m "Updated by Github Actions"
 git push
