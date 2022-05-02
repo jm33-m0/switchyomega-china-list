@@ -67,6 +67,7 @@
 *.00cf.com
 *.00cha.com
 *.00cha.net
+*.00dyun.xyz
 *.00ic.com
 *.00it.net
 *.00ksw.net
@@ -786,7 +787,6 @@
 *.100fang.com
 *.100font.com
 *.100ftv.com
-*.100hdy.com
 *.100how.com
 *.100ip.net
 *.100jiapu.com
@@ -2402,7 +2402,6 @@
 *.25838yn.com
 *.25847.com
 *.25863.com
-*.2588.tv
 *.25892.com
 *.258ch.com
 *.258fuwu.com
@@ -3875,6 +3874,7 @@
 *.5151.com
 *.51511.com
 *.515158.com
+*.5151app.com
 *.5151doc.com
 *.5151sc.com
 *.5153.com
@@ -9462,6 +9462,7 @@
 *.armchina.com
 *.armsword.com
 *.armystar.com
+*.arnaz-on-co-jp.icu
 *.arocmag.com
 *.arp.cc
 *.arpg2.com
@@ -10048,7 +10049,6 @@
 *.baiduhua.com
 *.baidulook.com
 *.baidunongmin.com
-*.baiduonce.com
 *.baiduor.com
 *.baidupan.com
 *.baidupcs.com
@@ -12143,7 +12143,6 @@
 *.botorange.com
 *.botslab.com
 *.bottos.org
-*.botui.ink
 *.bounb.com
 *.boweifeng.com
 *.bowerp.com
@@ -13883,7 +13882,6 @@
 *.chachongba.com
 *.chacuo.net
 *.chadan.wang
-*.chadianhua.net
 *.chadianshang.com
 *.chadianshang2.com
 *.chadown.com
@@ -19142,7 +19140,6 @@
 *.div.io
 *.divcss5.com
 *.diwork.com
-*.dixiao.org
 *.dixintong.com
 *.diybcq.com
 *.diybuy.net
@@ -21005,6 +21002,7 @@
 *.efpp.com
 *.efucms.com
 *.efueloil.com
+*.efunent.com
 *.efwang.com
 *.efwh.com
 *.efy-tech.com
@@ -22117,6 +22115,7 @@
 *.fanque.cc
 *.fanrenshucheng.com
 *.fanruan.com
+*.fans.fans
 *.fans1.com
 *.fans8.com
 *.fansgu.com
@@ -22827,7 +22826,6 @@
 *.fjsjs.com
 *.fjstfc.com
 *.fjtelecom.com
-*.fjtgyxa.vip
 *.fjtianya.com
 *.fjtn.com
 *.fjtv.net
@@ -25412,6 +25410,7 @@
 *.guoguo-app.com
 *.guohanlawfirm.com
 *.guohead.com
+*.guohexinxiang.com
 *.guohuapharm.com
 *.guoji.biz
 *.guojianglive.com
@@ -27113,6 +27112,7 @@
 *.helloweba.com
 *.helloweba.net
 *.hellowebfont.com
+*.hellowgame.com
 *.helloyao.com
 *.helong.info
 *.help-hope.org
@@ -27374,7 +27374,6 @@
 *.hhpj.net
 *.hhrcard.com
 *.hhrdc.com
-*.hhrhl.vip
 *.hhrtu.com
 *.hhtravel.com
 *.hhvv.com
@@ -27861,6 +27860,7 @@
 *.hnsyu.net
 *.hnteacher.net
 *.hntengn.com
+*.hntezhi.com
 *.hntianduo.com
 *.hnticai.com
 *.hntobacco.com
@@ -28465,6 +28465,7 @@
 *.huacaoshumu.net
 *.huacemedia.com
 *.huacenter.com
+*.huachao.vip
 *.huachenit.com
 *.huachenyuanyang.com
 *.huaci.cc
@@ -28622,6 +28623,7 @@
 *.huanyingzq.com
 *.huanyou365.com
 *.huanyouji.com
+*.huanyuantech.com
 *.huanyudns.com
 *.huanyutv.com
 *.huaoe.com
@@ -29263,7 +29265,6 @@
 *.hxytw.com
 *.hxyxsj.com
 *.hxzdhn.com
-*.hy-cgp.com
 *.hy-la.com
 *.hy-zr.com
 *.hy01888.com
@@ -32399,6 +32400,7 @@
 *.jiexi.la
 *.jiexiyouxuan.com
 *.jieyou.com
+*.jieyougame.com
 *.jieyoujob.com
 *.jieyue.net
 *.jiez238.com
@@ -33454,6 +33456,7 @@
 *.jshuachen.com
 *.jshy.com
 *.jshylm.com
+*.jsifaja.com
 *.jsimg.cc
 *.jsinfo.net
 *.jsiteec.org
@@ -39099,6 +39102,7 @@
 *.meimingteng.com
 *.meingrace.com
 *.meinv.com
+*.meinv.page
 *.meip0.me
 *.meip4.me
 *.meipai.com
@@ -40076,7 +40080,6 @@
 *.moerail.ml
 *.moerkeji.net
 *.moerlong.com
-*.moesola.com
 *.moetu.org
 *.moetuji.com
 *.moew.xyz
@@ -40997,6 +41000,7 @@
 *.naifei.pro
 *.naigirl.com
 *.naikanxs.com
+*.naikili.life
 *.naimei.com
 *.nainiuapp.com
 *.naiping.net
@@ -46727,7 +46731,6 @@
 *.router.tw
 *.routeryun.com
 *.routewize.com
-*.rouwen.net
 *.rouzip.com
 *.rowcan.com
 *.royalpay.com.au
@@ -47177,6 +47180,8 @@
 *.sankaijian.com
 *.sankgo.com
 *.sankougift.com
+*.sankoup.com
+*.sankoup1.com
 *.sankuai.com
 *.sanlan123.com
 *.sanlangwang.ink
@@ -47260,7 +47265,6 @@
 *.sayabear.com
 *.sayloving.com
 *.saywash.com
-*.sb1152.com
 *.sbanfu.com
 *.sbanzu.com
 *.sbc-mcc.com
@@ -56183,7 +56187,6 @@
 *.weeyun.com
 *.wefans.com
 *.wefiler.com
-*.wefinder.com
 *.wefinger.club
 *.wegame.com
 *.wegamex.com.hk
@@ -57317,7 +57320,6 @@
 *.wlanbanlv.com
 *.wlanwifi.net
 *.wlbaike.com
-*.wlbqczk.vip
 *.wlcbnews.com
 *.wlcbw.com
 *.wlcxx.com
@@ -59073,7 +59075,6 @@
 *.xiaolinwl.com
 *.xiaolinyuan.com
 *.xiaolist.com
-*.xiaolixiaoxue.com
 *.xiaolizhuli.com
 *.xiaolu123.com
 *.xiaoluboke.com
@@ -62902,7 +62903,6 @@
 *.yqmh.com
 *.yqphh.com
 *.yqptzx.com
-*.yqqlm.vip
 *.yqsbz.com
 *.yqsns.com
 *.yqtc.com
@@ -62998,7 +62998,6 @@
 *.ysx8.vip
 *.ysx9999.com
 *.ysxs8.com
-*.ysyhljt.vip
 *.ysyycv.com
 *.yszx99.com
 *.yszyun.com
