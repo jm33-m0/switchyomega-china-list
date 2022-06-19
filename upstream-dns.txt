@@ -1362,6 +1362,8 @@ https://8.8.8.8/dns-query
 [/1314zf.com/]114.114.114.114
 [/1317w.com/]114.114.114.114
 [/131cc.com/]114.114.114.114
+[/131vip1.com/]114.114.114.114
+[/131w.tv/]114.114.114.114
 [/1322.com/]114.114.114.114
 [/1325.com/]114.114.114.114
 [/132lawyer.com/]114.114.114.114
@@ -2094,7 +2096,6 @@ https://8.8.8.8/dns-query
 [/1qfa.com/]114.114.114.114
 [/1qianbao.com/]114.114.114.114
 [/1qwe3r.com/]114.114.114.114
-[/1qyl.com/]114.114.114.114
 [/1r1g.com/]114.114.114.114
 [/1rtb.com/]114.114.114.114
 [/1safety.cc/]114.114.114.114
@@ -4062,7 +4063,6 @@ https://8.8.8.8/dns-query
 [/51changdu.com/]114.114.114.114
 [/51changdu.xyz/]114.114.114.114
 [/51changmi.com/]114.114.114.114
-[/51changshi.com/]114.114.114.114
 [/51changxie.com/]114.114.114.114
 [/51chaoban.com/]114.114.114.114
 [/51checai.com/]114.114.114.114
@@ -4259,6 +4259,7 @@ https://8.8.8.8/dns-query
 [/51lunwenwang.com/]114.114.114.114
 [/51luying.com/]114.114.114.114
 [/51lvh.com/]114.114.114.114
+[/51lyb.net/]114.114.114.114
 [/51lyrc.com/]114.114.114.114
 [/51mag.com/]114.114.114.114
 [/51maiquan.com/]114.114.114.114
@@ -7726,6 +7727,7 @@ https://8.8.8.8/dns-query
 [/acgpiping.net/]114.114.114.114
 [/acgqd.com/]114.114.114.114
 [/acgres.com/]114.114.114.114
+[/acgrip.com/]114.114.114.114
 [/acgsky.win/]114.114.114.114
 [/acgtofe.com/]114.114.114.114
 [/acgvideo.com/]114.114.114.114
@@ -8219,7 +8221,6 @@ https://8.8.8.8/dns-query
 [/aigou.com/]114.114.114.114
 [/aigtek.com/]114.114.114.114
 [/aigupiao.com/]114.114.114.114
-[/aigzg.com/]114.114.114.114
 [/aihaisi.com/]114.114.114.114
 [/aihala.com/]114.114.114.114
 [/aihandu.com/]114.114.114.114
@@ -9564,6 +9565,7 @@ https://8.8.8.8/dns-query
 [/asiainfo.com/]114.114.114.114
 [/asiainfodata.com/]114.114.114.114
 [/asianewsphoto.com/]114.114.114.114
+[/asianmetal.com/]114.114.114.114
 [/asiarobot.net/]114.114.114.114
 [/asifadeaway.com/]114.114.114.114
 [/asilu.com/]114.114.114.114
@@ -10642,7 +10644,6 @@ https://8.8.8.8/dns-query
 [/bdcloudapi.com/]114.114.114.114
 [/bdclouddns.com/]114.114.114.114
 [/bdf2.com/]114.114.114.114
-[/bdf304.com/]114.114.114.114
 [/bdfkb.com/]114.114.114.114
 [/bdfzcd.net/]114.114.114.114
 [/bdfzgz.net/]114.114.114.114
@@ -12848,7 +12849,6 @@ https://8.8.8.8/dns-query
 [/caizhaowang.com/]114.114.114.114
 [/caizhihr.com/]114.114.114.114
 [/caj11.com/]114.114.114.114
-[/caj5.com/]114.114.114.114
 [/cake400.com/]114.114.114.114
 [/cake6.com/]114.114.114.114
 [/calawei.com/]114.114.114.114
@@ -13175,7 +13175,6 @@ https://8.8.8.8/dns-query
 [/ccidedu.com/]114.114.114.114
 [/ccidexpo.com/]114.114.114.114
 [/ccidgroup.com/]114.114.114.114
-[/ccidjinglue.com/]114.114.114.114
 [/ccidnet.com/]114.114.114.114
 [/ccidreport.com/]114.114.114.114
 [/ccidsmart.com/]114.114.114.114
@@ -13400,7 +13399,6 @@ https://8.8.8.8/dns-query
 [/cdh3c.com/]114.114.114.114
 [/cdhaiguang.com/]114.114.114.114
 [/cdhfund.com/]114.114.114.114
-[/cdhongfu.com/]114.114.114.114
 [/cdhr.net/]114.114.114.114
 [/cdhtnews.com/]114.114.114.114
 [/cdidc.net/]114.114.114.114
@@ -13603,7 +13601,6 @@ https://8.8.8.8/dns-query
 [/cef114.com/]114.114.114.114
 [/cefc.co/]114.114.114.114
 [/cehbe.com/]114.114.114.114
-[/cehbh.com/]114.114.114.114
 [/cehbk.com/]114.114.114.114
 [/cehca.com/]114.114.114.114
 [/cehome.com/]114.114.114.114
@@ -14146,6 +14143,7 @@ https://8.8.8.8/dns-query
 [/chengedeco.com/]114.114.114.114
 [/chengezhao.com/]114.114.114.114
 [/chengfeilong.com/]114.114.114.114
+[/chenggongguiji.com/]114.114.114.114
 [/chenggua.com/]114.114.114.114
 [/chengguw.com/]114.114.114.114
 [/chengjieos.com/]114.114.114.114
@@ -14323,7 +14321,6 @@ https://8.8.8.8/dns-query
 [/china-consulate.org/]114.114.114.114
 [/china-csdz.com/]114.114.114.114
 [/china-csm.org/]114.114.114.114
-[/china-cw.com/]114.114.114.114
 [/china-d.com/]114.114.114.114
 [/china-def.com/]114.114.114.114
 [/china-designer.com/]114.114.114.114
@@ -15569,7 +15566,6 @@ https://8.8.8.8/dns-query
 [/clewx.com/]114.114.114.114
 [/clf.red/]114.114.114.114
 [/clfile.com/]114.114.114.114
-[/clgc88.com/]114.114.114.114
 [/cli.im/]114.114.114.114
 [/click-v.com/]114.114.114.114
 [/click369.com/]114.114.114.114
@@ -19236,7 +19232,6 @@ https://8.8.8.8/dns-query
 [/dm321.net/]114.114.114.114
 [/dm4mm.com/]114.114.114.114
 [/dm5.com/]114.114.114.114
-[/dm789.com/]114.114.114.114
 [/dm9.com/]114.114.114.114
 [/dmacg.net/]114.114.114.114
 [/dmaku.com/]114.114.114.114
@@ -20219,7 +20214,6 @@ https://8.8.8.8/dns-query
 [/dycars.com/]114.114.114.114
 [/dycdn.com/]114.114.114.114
 [/dycf.net/]114.114.114.114
-[/dycmjkgl.com/]114.114.114.114
 [/dydata.io/]114.114.114.114
 [/dydt.net/]114.114.114.114
 [/dydytt.com/]114.114.114.114
@@ -22166,7 +22160,6 @@ https://8.8.8.8/dns-query
 [/fazhijx.com/]114.114.114.114
 [/fazj.org/]114.114.114.114
 [/fb.mu/]114.114.114.114
-[/fb111.com/]114.114.114.114
 [/fbabi.com/]114.114.114.114
 [/fbaichuan.com/]114.114.114.114
 [/fbirdsmall.com/]114.114.114.114
@@ -22546,6 +22539,7 @@ https://8.8.8.8/dns-query
 [/fhdq.net/]114.114.114.114
 [/fhg90.com/]114.114.114.114
 [/fhhgj.com/]114.114.114.114
+[/fhjxzz.com/]114.114.114.114
 [/fhkioskmodules.com/]114.114.114.114
 [/fhldns.com/]114.114.114.114
 [/fhlun.com/]114.114.114.114
@@ -26018,7 +26012,6 @@ https://8.8.8.8/dns-query
 [/hangjiayun.com/]114.114.114.114
 [/hangjizulin.com/]114.114.114.114
 [/hangkong.com/]114.114.114.114
-[/hangmiwang.com/]114.114.114.114
 [/hangomart.com/]114.114.114.114
 [/hangowa.com/]114.114.114.114
 [/hangpu-topsys.com/]114.114.114.114
@@ -26513,7 +26506,6 @@ https://8.8.8.8/dns-query
 [/hbhtcm.com/]114.114.114.114
 [/hbhtxx.com/]114.114.114.114
 [/hbhxbb.com/]114.114.114.114
-[/hbhxqq.com/]114.114.114.114
 [/hbhxrff.com/]114.114.114.114
 [/hbhyychem.com/]114.114.114.114
 [/hbhz.net/]114.114.114.114
@@ -26831,6 +26823,7 @@ https://8.8.8.8/dns-query
 [/heduibu.com/]114.114.114.114
 [/heduwang.com/]114.114.114.114
 [/heeeeeh.com/]114.114.114.114
+[/heemoo.com/]114.114.114.114
 [/heerit.com/]114.114.114.114
 [/hefei.cc/]114.114.114.114
 [/hefeizp.com/]114.114.114.114
@@ -27156,7 +27149,6 @@ https://8.8.8.8/dns-query
 [/hg1946.vip/]114.114.114.114
 [/hg5177.com/]114.114.114.114
 [/hg5677.org/]114.114.114.114
-[/hg58.pw/]114.114.114.114
 [/hg6262.biz/]114.114.114.114
 [/hg707.com/]114.114.114.114
 [/hg7799.net/]114.114.114.114
@@ -27568,6 +27560,7 @@ https://8.8.8.8/dns-query
 [/hmldds.com/]114.114.114.114
 [/hmltec.com/]114.114.114.114
 [/hmnst.com/]114.114.114.114
+[/hmoe.link/]114.114.114.114
 [/hmpic.xyz/]114.114.114.114
 [/hmplay.com/]114.114.114.114
 [/hmsce.org/]114.114.114.114
@@ -27895,7 +27888,6 @@ https://8.8.8.8/dns-query
 [/hoolinks.com/]114.114.114.114
 [/hoolo.tv/]114.114.114.114
 [/hoop-archi.com/]114.114.114.114
-[/hoop8.com/]114.114.114.114
 [/hoopchina.com/]114.114.114.114
 [/hoopugames.net/]114.114.114.114
 [/hoosho.com/]114.114.114.114
@@ -29083,7 +29075,6 @@ https://8.8.8.8/dns-query
 [/hxshx.com/]114.114.114.114
 [/hxsme.org/]114.114.114.114
 [/hxt-semitech.com/]114.114.114.114
-[/hxthjy.com/]114.114.114.114
 [/hxtk.com/]114.114.114.114
 [/hxwglm.com/]114.114.114.114
 [/hxxdsb.com/]114.114.114.114
@@ -30964,7 +30955,6 @@ https://8.8.8.8/dns-query
 [/isoying.com/]114.114.114.114
 [/isoyu.com/]114.114.114.114
 [/isp.cx/]114.114.114.114
-[/ispeaken.com/]114.114.114.114
 [/ispecial.xyz/]114.114.114.114
 [/ispservice.cc/]114.114.114.114
 [/isqhy.com/]114.114.114.114
@@ -33734,6 +33724,7 @@ https://8.8.8.8/dns-query
 [/jxsxdp.com/]114.114.114.114
 [/jxtech.net/]114.114.114.114
 [/jxtobo.com/]114.114.114.114
+[/jxtvbbs.com/]114.114.114.114
 [/jxtvshop.com/]114.114.114.114
 [/jxtyzx.org/]114.114.114.114
 [/jxtzw.com/]114.114.114.114
@@ -34264,7 +34255,6 @@ https://8.8.8.8/dns-query
 [/kedi.cc/]114.114.114.114
 [/kedou.com/]114.114.114.114
 [/keede.com/]114.114.114.114
-[/keen8.com/]114.114.114.114
 [/keenonrobot.com/]114.114.114.114
 [/keensky.com/]114.114.114.114
 [/keenwon.com/]114.114.114.114
@@ -34357,8 +34347,6 @@ https://8.8.8.8/dns-query
 [/kenuonet.com/]114.114.114.114
 [/kenweini.com/]114.114.114.114
 [/kenwen.com/]114.114.114.114
-[/kenxn.com/]114.114.114.114
-[/kenxv.com/]114.114.114.114
 [/kepingtong.com/]114.114.114.114
 [/kepuchina.org/]114.114.114.114
 [/kepusky.com/]114.114.114.114
@@ -34385,7 +34373,6 @@ https://8.8.8.8/dns-query
 [/ketangpai.com/]114.114.114.114
 [/ketingkeji.com/]114.114.114.114
 [/ketuimage.com/]114.114.114.114
-[/kevincc.xyz/]114.114.114.114
 [/kevinems.com/]114.114.114.114
 [/kevinhewu.com/]114.114.114.114
 [/kevinjiang.info/]114.114.114.114
@@ -34623,6 +34610,7 @@ https://8.8.8.8/dns-query
 [/kkcodes.com/]114.114.114.114
 [/kkcoo.com/]114.114.114.114
 [/kkdict.com/]114.114.114.114
+[/kkdnsv1.com/]114.114.114.114
 [/kkdownload.com/]114.114.114.114
 [/kkeji.com/]114.114.114.114
 [/kkeye.com/]114.114.114.114
@@ -35872,7 +35860,6 @@ https://8.8.8.8/dns-query
 [/leadbbs.com/]114.114.114.114
 [/leadcoretech.com/]114.114.114.114
 [/leader-tech.net/]114.114.114.114
-[/leadercf.com/]114.114.114.114
 [/leaderhero.com/]114.114.114.114
 [/leadermall.com/]114.114.114.114
 [/leadge.com/]114.114.114.114
@@ -36022,7 +36009,6 @@ https://8.8.8.8/dns-query
 [/lejiaolexue.com/]114.114.114.114
 [/lejj.com/]114.114.114.114
 [/lejlb.com/]114.114.114.114
-[/lejlc.com/]114.114.114.114
 [/leju.com/]114.114.114.114
 [/lejucaifu.com/]114.114.114.114
 [/lejuliang.com/]114.114.114.114
@@ -37686,7 +37672,6 @@ https://8.8.8.8/dns-query
 [/lunwenxiazai.com/]114.114.114.114
 [/lunxia.com/]114.114.114.114
 [/lunzima.net/]114.114.114.114
-[/luo8.com/]114.114.114.114
 [/luobo020.com/]114.114.114.114
 [/luobo360.com/]114.114.114.114
 [/luobocai.com/]114.114.114.114
@@ -37952,7 +37937,6 @@ https://8.8.8.8/dns-query
 [/lygou.cc/]114.114.114.114
 [/lygrffw.com/]114.114.114.114
 [/lygsyyijia.com/]114.114.114.114
-[/lyhanda.com/]114.114.114.114
 [/lyhero.com/]114.114.114.114
 [/lyhuadu.com/]114.114.114.114
 [/lyjiayi.com/]114.114.114.114
@@ -38998,7 +38982,6 @@ https://8.8.8.8/dns-query
 [/menglechong.com/]114.114.114.114
 [/menglegame.com/]114.114.114.114
 [/mengma.com/]114.114.114.114
-[/mengma021.com/]114.114.114.114
 [/mengniang.tv/]114.114.114.114
 [/mengniu99.com/]114.114.114.114
 [/mengqianxun.net/]114.114.114.114
@@ -42060,7 +42043,6 @@ https://8.8.8.8/dns-query
 [/ok86.com/]114.114.114.114
 [/ok8809.com/]114.114.114.114
 [/ok9624.com/]114.114.114.114
-[/ok9803.com/]114.114.114.114
 [/oka-vip.com/]114.114.114.114
 [/okad.com/]114.114.114.114
 [/okaoyan.com/]114.114.114.114
@@ -42460,6 +42442,7 @@ https://8.8.8.8/dns-query
 [/ososn.com/]114.114.114.114
 [/osp.io/]114.114.114.114
 [/ospp.com/]114.114.114.114
+[/osredm.com/]114.114.114.114
 [/oss-cn-beijing-aliyuncs.com/]114.114.114.114
 [/oss.link/]114.114.114.114
 [/oss.so/]114.114.114.114
@@ -43185,7 +43168,6 @@ https://8.8.8.8/dns-query
 [/phedu.net/]114.114.114.114
 [/phenixos.com/]114.114.114.114
 [/phezzan.com/]114.114.114.114
-[/phicomm.com/]114.114.114.114
 [/phida.net/]114.114.114.114
 [/philipswechat.com/]114.114.114.114
 [/phlexing.com/]114.114.114.114
@@ -43620,6 +43602,7 @@ https://8.8.8.8/dns-query
 [/pm360.net/]114.114.114.114
 [/pmacasia.com/]114.114.114.114
 [/pmcaff.com/]114.114.114.114
+[/pmceo.com/]114.114.114.114
 [/pmdak.com/]114.114.114.114
 [/pmdaniu.com/]114.114.114.114
 [/pmec.net/]114.114.114.114
@@ -45592,7 +45575,6 @@ https://8.8.8.8/dns-query
 [/quwentxw.com/]114.114.114.114
 [/quwj.com/]114.114.114.114
 [/quwm.com/]114.114.114.114
-[/quword.com/]114.114.114.114
 [/quwuxian.com/]114.114.114.114
 [/quxds.com/]114.114.114.114
 [/quxia.com/]114.114.114.114
@@ -46301,6 +46283,7 @@ https://8.8.8.8/dns-query
 [/rmhospital.com/]114.114.114.114
 [/rmjtxw.com/]114.114.114.114
 [/rmlxx.com/]114.114.114.114
+[/rmnof.com/]114.114.114.114
 [/rmryun.com/]114.114.114.114
 [/rmsznet.com/]114.114.114.114
 [/rmttjkw.com/]114.114.114.114
@@ -48046,6 +48029,7 @@ https://8.8.8.8/dns-query
 [/shenpinwu.com/]114.114.114.114
 [/shenqhy.com/]114.114.114.114
 [/shenqibuy.com/]114.114.114.114
+[/shenqiwunet.com/]114.114.114.114
 [/shenquol.com/]114.114.114.114
 [/shenrennn.com/]114.114.114.114
 [/shenrongda.com/]114.114.114.114
@@ -59158,6 +59142,7 @@ https://8.8.8.8/dns-query
 [/xingyuyouxi.com/]114.114.114.114
 [/xingzhang.com/]114.114.114.114
 [/xingzhiedu.net/]114.114.114.114
+[/xingzhige.com/]114.114.114.114
 [/xingzhilian.net/]114.114.114.114
 [/xingzhiyue.com/]114.114.114.114
 [/xingzuo.com/]114.114.114.114
@@ -61184,7 +61169,6 @@ https://8.8.8.8/dns-query
 [/yi588.com/]114.114.114.114
 [/yi6.com/]114.114.114.114
 [/yi7.com/]114.114.114.114
-[/yi958.com/]114.114.114.114
 [/yiaini.com/]114.114.114.114
 [/yianju.ltd/]114.114.114.114
 [/yiapp.com/]114.114.114.114
@@ -63226,7 +63210,6 @@ https://8.8.8.8/dns-query
 [/ywtx.cc/]114.114.114.114
 [/ywxue.com/]114.114.114.114
 [/ywxzz.com/]114.114.114.114
-[/ywy7.com/]114.114.114.114
 [/ywyanxing.com/]114.114.114.114
 [/ywzqzx.com/]114.114.114.114
 [/yx-g.com/]114.114.114.114
@@ -63300,7 +63283,6 @@ https://8.8.8.8/dns-query
 [/yxrb.net/]114.114.114.114
 [/yxsc33.com/]114.114.114.114
 [/yxsea.com/]114.114.114.114
-[/yxshgwjy.com/]114.114.114.114
 [/yxsos.com/]114.114.114.114
 [/yxss.com/]114.114.114.114
 [/yxsss.com/]114.114.114.114
@@ -63809,7 +63791,6 @@ https://8.8.8.8/dns-query
 [/zfw.me/]114.114.114.114
 [/zfw.net/]114.114.114.114
 [/zfwimg.com/]114.114.114.114
-[/zfyml.com/]114.114.114.114
 [/zg-import.com/]114.114.114.114
 [/zg-imsoft.com/]114.114.114.114
 [/zg114w.com/]114.114.114.114
@@ -65981,7 +65962,6 @@ https://8.8.8.8/dns-query
 [/zwjczx.com/]114.114.114.114
 [/zwjhl.com/]114.114.114.114
 [/zwjk.com/]114.114.114.114
-[/zwjl.com/]114.114.114.114
 [/zwjl.net/]114.114.114.114
 [/zwkf.net/]114.114.114.114
 [/zwoptical.com/]114.114.114.114
