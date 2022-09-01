@@ -3450,6 +3450,7 @@ https://8.8.8.8/dns-query
 [/3mtw.com/]114.114.114.114
 [/3mu.me/]114.114.114.114
 [/3n110.com/]114.114.114.114
+[/3nbb.com/]114.114.114.114
 [/3nian.com/]114.114.114.114
 [/3png.com/]114.114.114.114
 [/3poo.com/]114.114.114.114
@@ -4406,6 +4407,7 @@ https://8.8.8.8/dns-query
 [/51yundong.me/]114.114.114.114
 [/51yunli.com/]114.114.114.114
 [/51yuu.com/]114.114.114.114
+[/51ywx.com/]114.114.114.114
 [/51zan.com/]114.114.114.114
 [/51zbz.com/]114.114.114.114
 [/51zbz.net/]114.114.114.114
@@ -18474,7 +18476,6 @@ https://8.8.8.8/dns-query
 [/diandanbao.com/]114.114.114.114
 [/diandao.org/]114.114.114.114
 [/diandaxia.com/]114.114.114.114
-[/diandazuoye.com/]114.114.114.114
 [/diandian.com/]114.114.114.114
 [/diandianshu.com/]114.114.114.114
 [/diandianwaimai.com/]114.114.114.114
@@ -22091,7 +22092,6 @@ https://8.8.8.8/dns-query
 [/fengmanginfo.com/]114.114.114.114
 [/fengmaniu.com/]114.114.114.114
 [/fengmeng.net/]114.114.114.114
-[/fengmi.tv/]114.114.114.114
 [/fengmk2.com/]114.114.114.114
 [/fengniao.com/]114.114.114.114
 [/fengniaohuanjing.com/]114.114.114.114
@@ -30303,6 +30303,7 @@ https://8.8.8.8/dns-query
 [/iosre.com/]114.114.114.114
 [/ioswift.org/]114.114.114.114
 [/iot-online.com/]114.114.114.114
+[/iot.moe/]114.114.114.114
 [/iot1001.com/]114.114.114.114
 [/iot101.com/]114.114.114.114
 [/iot688.com/]114.114.114.114
@@ -31423,6 +31424,7 @@ https://8.8.8.8/dns-query
 [/jhrcbank.com/]114.114.114.114
 [/jhsbggw.com/]114.114.114.114
 [/jhscm.com/]114.114.114.114
+[/jhscrm.com/]114.114.114.114
 [/jhsctv.com/]114.114.114.114
 [/jhsdai.com/]114.114.114.114
 [/jhsfojiao.com/]114.114.114.114
@@ -35179,6 +35181,7 @@ https://8.8.8.8/dns-query
 [/lanzout.com/]114.114.114.114
 [/lanzouw.com/]114.114.114.114
 [/lanzoux.com/]114.114.114.114
+[/lanzouy.com/]114.114.114.114
 [/lanzun.net/]114.114.114.114
 [/lao9123.com/]114.114.114.114
 [/laob.me/]114.114.114.114
@@ -38045,6 +38048,7 @@ https://8.8.8.8/dns-query
 [/maxhub.vip/]114.114.114.114
 [/maxiang.info/]114.114.114.114
 [/maxiang.io/]114.114.114.114
+[/maxiaobang.com/]114.114.114.114
 [/maxitas.com/]114.114.114.114
 [/maxjia.com/]114.114.114.114
 [/maxket.com/]114.114.114.114
@@ -40124,6 +40128,7 @@ https://8.8.8.8/dns-query
 [/mywang.net/]114.114.114.114
 [/mywayboo.net/]114.114.114.114
 [/myweimai.com/]114.114.114.114
+[/mywhh.com/]114.114.114.114
 [/mywll.com/]114.114.114.114
 [/mywood.cc/]114.114.114.114
 [/myxypt.com/]114.114.114.114
@@ -41724,6 +41729,7 @@ https://8.8.8.8/dns-query
 [/openedv.com/]114.114.114.114
 [/openerp.hk/]114.114.114.114
 [/openeuler.org/]114.114.114.114
+[/openfrp.net/]114.114.114.114
 [/opengcc.org/]114.114.114.114
 [/opengslb.com/]114.114.114.114
 [/openinstall.io/]114.114.114.114
@@ -42758,7 +42764,6 @@ https://8.8.8.8/dns-query
 [/pifukezaixian.com/]114.114.114.114
 [/pig.ai/]114.114.114.114
 [/pig4cloud.com/]114.114.114.114
-[/pig66.com/]114.114.114.114
 [/pigai.org/]114.114.114.114
 [/pigcms.com/]114.114.114.114
 [/pigjian.com/]114.114.114.114
@@ -46902,7 +46907,6 @@ https://8.8.8.8/dns-query
 [/seo.tm/]114.114.114.114
 [/seo123.net/]114.114.114.114
 [/seo628.com/]114.114.114.114
-[/seo8.org/]114.114.114.114
 [/seo8o.com/]114.114.114.114
 [/seocun.com/]114.114.114.114
 [/seocxw.com/]114.114.114.114
@@ -50943,6 +50947,7 @@ https://8.8.8.8/dns-query
 [/tbl-import.com/]114.114.114.114
 [/tblk.me/]114.114.114.114
 [/tbnimg.com/]114.114.114.114
+[/tboxn.com/]114.114.114.114
 [/tbq168.com/]114.114.114.114
 [/tbqw.com/]114.114.114.114
 [/tbsandbox.com/]114.114.114.114
@@ -56951,6 +56956,7 @@ https://8.8.8.8/dns-query
 [/wuzhenfestival.com/]114.114.114.114
 [/wuzhenpay.com/]114.114.114.114
 [/wuzhenwic.org/]114.114.114.114
+[/wuzhenwucun.com/]114.114.114.114
 [/wuzhicms.com/]114.114.114.114
 [/wuzhiwei.net/]114.114.114.114
 [/wuzhouqianzheng.com/]114.114.114.114
