@@ -21,6 +21,10 @@ https://8.8.8.8/dns-query
 # my domains
 [/jm33.local/]127.0.0.1
 
+# NTP domains
+[/ntp.org/]114.114.114.114
+[/time.windows.com/]114.114.114.114
+
 # Apple domains
 [/a1.mzstatic.com/]114.114.114.114
 [/a2.mzstatic.com/]114.114.114.114
@@ -5312,6 +5316,7 @@ https://8.8.8.8/dns-query
 [/65650000.com/]114.114.114.114
 [/65677358625.com/]114.114.114.114
 [/65688qp.com/]114.114.114.114
+[/6571n.com/]114.114.114.114
 [/65875.com/]114.114.114.114
 [/65918.tw/]114.114.114.114
 [/659595.com/]114.114.114.114
@@ -6341,6 +6346,7 @@ https://8.8.8.8/dns-query
 [/89274.st/]114.114.114.114
 [/89303.com/]114.114.114.114
 [/8961zx.com/]114.114.114.114
+[/897263tqs.com/]114.114.114.114
 [/8977567.com/]114.114.114.114
 [/8979.com/]114.114.114.114
 [/898.travel/]114.114.114.114
@@ -6574,6 +6580,7 @@ https://8.8.8.8/dns-query
 [/91huayi.com/]114.114.114.114
 [/91huoke.com/]114.114.114.114
 [/91ios.com/]114.114.114.114
+[/91jbz.com/]114.114.114.114
 [/91jf.com/]114.114.114.114
 [/91jiabohui.com/]114.114.114.114
 [/91jiafang.com/]114.114.114.114
@@ -7826,6 +7833,7 @@ https://8.8.8.8/dns-query
 [/aibaix.com/]114.114.114.114
 [/aibang.com/]114.114.114.114
 [/aibaov.com/]114.114.114.114
+[/aibe1e.cc/]114.114.114.114
 [/aibing.cc/]114.114.114.114
 [/aibo123.com/]114.114.114.114
 [/aibooks.cc/]114.114.114.114
@@ -22584,7 +22592,6 @@ https://8.8.8.8/dns-query
 [/fuliapps.com/]114.114.114.114
 [/fuliba2020.net/]114.114.114.114
 [/fulibbs.com/]114.114.114.114
-[/fulibest.com/]114.114.114.114
 [/fulijd.com/]114.114.114.114
 [/fulimin.org/]114.114.114.114
 [/fulin.org/]114.114.114.114
@@ -23563,7 +23570,6 @@ https://8.8.8.8/dns-query
 [/ghlearning.com/]114.114.114.114
 [/ghmba.com/]114.114.114.114
 [/ghmcchina.com/]114.114.114.114
-[/ghmp4.com/]114.114.114.114
 [/gho5.com/]114.114.114.114
 [/ghost008.com/]114.114.114.114
 [/ghost11.com/]114.114.114.114
@@ -28665,6 +28671,7 @@ https://8.8.8.8/dns-query
 [/i5399.com/]114.114.114.114
 [/i5738.com/]114.114.114.114
 [/i5i6.net/]114.114.114.114
+[/i5jh6b.cc/]114.114.114.114
 [/i5mai.com/]114.114.114.114
 [/i66wan.com/]114.114.114.114
 [/i6879.com/]114.114.114.114
@@ -37770,6 +37777,7 @@ https://8.8.8.8/dns-query
 [/mbabao.com/]114.114.114.114
 [/mbabycare.com/]114.114.114.114
 [/mbachina.com/]114.114.114.114
+[/mbadashi.com/]114.114.114.114
 [/mbajyz.com/]114.114.114.114
 [/mbalib.com/]114.114.114.114
 [/mbalunwen.net/]114.114.114.114
@@ -40417,6 +40425,7 @@ https://8.8.8.8/dns-query
 [/nicolaszhao.com/]114.114.114.114
 [/niconiconi.cc/]114.114.114.114
 [/nicotine.vip/]114.114.114.114
+[/nicotv.me/]114.114.114.114
 [/nie.io/]114.114.114.114
 [/nielsenccdata.tv/]114.114.114.114
 [/nies.org/]114.114.114.114
@@ -57669,6 +57678,7 @@ https://8.8.8.8/dns-query
 [/xiaoshituina.vip/]114.114.114.114
 [/xiaoshouhudong.com/]114.114.114.114
 [/xiaoshoukuaifa.com/]114.114.114.114
+[/xiaoshourc.com/]114.114.114.114
 [/xiaoshouyi.com/]114.114.114.114
 [/xiaoshu168.com/]114.114.114.114
 [/xiaoshujiang.com/]114.114.114.114
@@ -58242,6 +58252,7 @@ https://8.8.8.8/dns-query
 [/xinzheng.cc/]114.114.114.114
 [/xinzhenkj.com/]114.114.114.114
 [/xinzhi.space/]114.114.114.114
+[/xinzzfsdfdslk333.com/]114.114.114.114
 [/xionganxinxi.com/]114.114.114.114
 [/xionganzhuce.com/]114.114.114.114
 [/xiongdayq.com/]114.114.114.114
@@ -59353,6 +59364,7 @@ https://8.8.8.8/dns-query
 [/xyzggg.com/]114.114.114.114
 [/xyzkj.xyz/]114.114.114.114
 [/xyzmdzs.com/]114.114.114.114
+[/xyzop.com/]114.114.114.114
 [/xyzs.com/]114.114.114.114
 [/xyzsq.com/]114.114.114.114
 [/xyzvo.com/]114.114.114.114
@@ -62900,7 +62912,6 @@ https://8.8.8.8/dns-query
 [/zhangu365.com/]114.114.114.114
 [/zhangweijie.net/]114.114.114.114
 [/zhangwenli.com/]114.114.114.114
-[/zhangxiaoyang.me/]114.114.114.114
 [/zhangxinhuichuan.com/]114.114.114.114
 [/zhangxinhulian.com/]114.114.114.114
 [/zhangxinxu.com/]114.114.114.114
@@ -62944,6 +62955,7 @@ https://8.8.8.8/dns-query
 [/zhanyouyun.com/]114.114.114.114
 [/zhanzhang.net/]114.114.114.114
 [/zhao-meng.com/]114.114.114.114
+[/zhao-zupu.com/]114.114.114.114
 [/zhaoapple.com/]114.114.114.114
 [/zhaobeidaxiao.com/]114.114.114.114
 [/zhaobeijing.com/]114.114.114.114
