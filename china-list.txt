@@ -5203,6 +5203,7 @@
 *.66ruian.com
 *.66shouyou.com
 *.66sj.com
+*.66ss.org
 *.66sy.com
 *.66team.com
 *.66test.com
@@ -11036,6 +11037,7 @@
 *.bjnaxl.com
 *.bjnsr.com
 *.bjp321.com
+*.bjpag.com
 *.bjpowernode.com
 *.bjqcjdcj.com
 *.bjqh.org
@@ -11718,6 +11720,7 @@
 *.btwob.net
 *.btwuji.com
 *.btxl8.com
+*.btydjxc.com
 *.btyou.com
 *.btzhcc.com
 *.buaaer.com
@@ -12851,6 +12854,7 @@
 *.cdnhwc5.com
 *.cdnhwc6.com
 *.cdnhwc8.com
+*.cdnhwcedt124.com
 *.cdnhwchcg02.com
 *.cdnhwcibv122.com
 *.cdnidc.net
@@ -14823,6 +14827,7 @@
 *.cjhxfund.com
 *.cjienc.com
 *.cjiit.com
+*.cjjd04.com
 *.cjjd08.com
 *.cjjhb.com
 *.cjjjs.com
@@ -14956,6 +14961,7 @@
 *.clouddn.com
 *.clouddns.vip
 *.clouddream.net
+*.cloudflare-cn.com
 *.cloudflare520.com
 *.cloudgap.net
 *.cloudgfw.com
@@ -16972,6 +16978,7 @@
 *.da.anythinktech.com
 *.da88.net
 *.daanbar.com
+*.daanche.com
 *.daba.com
 *.dabaicai.com
 *.dabaicai.org
@@ -17824,6 +17831,7 @@
 *.dexindat.com
 *.dexingrv.com
 *.dexinsg.com
+*.dextercai.com
 *.dexuee.com
 *.dexunyun.com
 *.deyang5.com
@@ -40609,6 +40617,7 @@
 *.ntxiru.com
 *.ntyswlkj.com
 *.ntyy888.com
+*.ntzcb2b.com
 *.nu1l.com
 *.nuan.io
 *.nuandao.com
@@ -41419,6 +41428,7 @@
 *.ouyada.com
 *.ouyaoxiazai.com
 *.ouyeel.com
+*.ouyi.date
 *.ouyi.zone
 *.ouyingyimin.com
 *.ouzhougoufang.com
@@ -44250,6 +44260,8 @@
 *.queniucf.com
 *.queniuck.com
 *.queniufm.com
+*.queniuhy.com
+*.queniukr.com
 *.queniuso.com
 *.queniusy.com
 *.queniuuf.com
@@ -45609,6 +45621,7 @@
 *.saiyangame.com
 *.saiyouedu.net
 *.saiyunyx.com
+*.sakesi.club
 *.sakway.com
 *.salasolo.com
 *.saleoilpaintings.com
@@ -47074,6 +47087,7 @@
 *.shiyide.com
 *.shiyiyx.com
 *.shiyongjun.biz
+*.shiyouhome.com
 *.shiyousan.com
 *.shiyu.pro
 *.shiyue.com
@@ -49693,6 +49707,7 @@
 *.szaiten.com
 *.szande.com
 *.szaudio.com
+*.szbaoly.com
 *.szbbs.org
 *.szbcase.com
 *.szbdyd.com
@@ -51197,6 +51212,7 @@
 *.tjzfcg.com
 *.tjzhongyiyao.com
 *.tjzyec.com
+*.tjzyfw.com
 *.tk-rays.com
 *.tk-xiong.com
 *.tk.anythinktech.com
@@ -54956,6 +54972,7 @@
 *.wf.pub
 *.wf163.com
 *.wf66.com
+*.wfaozhuo.com
 *.wfbaiyou.com
 *.wfbbs.com
 *.wfbrood.com
@@ -60006,6 +60023,7 @@
 *.yingyonghui.com
 *.yingyongmiao.com
 *.yingyu.com
+*.yingyuchat.com
 *.yingyurumen.com
 *.yingyushijie.com
 *.yingyuweb.com
@@ -61743,7 +61761,6 @@
 *.yx0599.com
 *.yx090.com
 *.yx10011.com
-*.yx129.net
 *.yx192.com
 *.yx231.com
 *.yx643.com
@@ -62252,6 +62269,7 @@
 *.zechunbengye.com
 *.zeda1.com
 *.zedukm.com
+*.zeekrlife.com
 *.zeelis.com
 *.zeesin.com
 *.zego.im
