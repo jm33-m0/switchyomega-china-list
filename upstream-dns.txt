@@ -3516,6 +3516,7 @@ https://8.8.8.8/dns-query
 [/4355.com/]114.114.114.114
 [/4366.com/]114.114.114.114
 [/436675.com/]114.114.114.114
+[/4366pk.com/]114.114.114.114
 [/4377.com/]114.114.114.114
 [/4377info.com/]114.114.114.114
 [/437zhifu.com/]114.114.114.114
@@ -4402,6 +4403,7 @@ https://8.8.8.8/dns-query
 [/52ai.com/]114.114.114.114
 [/52aimo.com/]114.114.114.114
 [/52ali88.com/]114.114.114.114
+[/52alipay.com/]114.114.114.114
 [/52analysis.com/]114.114.114.114
 [/52article.com/]114.114.114.114
 [/52asus.com/]114.114.114.114
@@ -4642,7 +4644,6 @@ https://8.8.8.8/dns-query
 [/54hcz.com/]114.114.114.114
 [/54heb.com/]114.114.114.114
 [/54im.com/]114.114.114.114
-[/54jj.com/]114.114.114.114
 [/54jkw.com/]114.114.114.114
 [/54job.com/]114.114.114.114
 [/54kefu.net/]114.114.114.114
@@ -7923,7 +7924,6 @@ https://8.8.8.8/dns-query
 [/ailete.com/]114.114.114.114
 [/ailewan.com/]114.114.114.114
 [/aili.com/]114.114.114.114
-[/ailianbang.com/]114.114.114.114
 [/ailinglei.com/]114.114.114.114
 [/ailinhao.com/]114.114.114.114
 [/ailinux.net/]114.114.114.114
@@ -11428,6 +11428,7 @@ https://8.8.8.8/dns-query
 [/blueskystudy.com/]114.114.114.114
 [/blueskyxn.com/]114.114.114.114
 [/blueslc.tech/]114.114.114.114
+[/bluesoleil.com/]114.114.114.114
 [/bluestar-pc.com/]114.114.114.114
 [/bluestep.cc/]114.114.114.114
 [/blw.moe/]114.114.114.114
@@ -11609,7 +11610,6 @@ https://8.8.8.8/dns-query
 [/books51.com/]114.114.114.114
 [/bookschina.com/]114.114.114.114
 [/bookshadow.com/]114.114.114.114
-[/bookshi.com/]114.114.114.114
 [/bookshoptw.com/]114.114.114.114
 [/bookshuku.com/]114.114.114.114
 [/booksky.cc/]114.114.114.114
@@ -14169,7 +14169,6 @@ https://8.8.8.8/dns-query
 [/chinaiol.com/]114.114.114.114
 [/chinaios.com/]114.114.114.114
 [/chinaipmagazine.com/]114.114.114.114
-[/chinaipo.com/]114.114.114.114
 [/chinaiprlaw.com/]114.114.114.114
 [/chinairn.com/]114.114.114.114
 [/chinairr.org/]114.114.114.114
@@ -15045,6 +15044,7 @@ https://8.8.8.8/dns-query
 [/clanzx.net/]114.114.114.114
 [/claritywallpaper.com/]114.114.114.114
 [/class01.com/]114.114.114.114
+[/classinpaas.com/]114.114.114.114
 [/classmateer.com/]114.114.114.114
 [/clayidols.com/]114.114.114.114
 [/clb6.net/]114.114.114.114
@@ -17014,7 +17014,6 @@ https://8.8.8.8/dns-query
 [/cz-yk.com/]114.114.114.114
 [/cz.cc/]114.114.114.114
 [/cz2sc.com/]114.114.114.114
-[/cz365.com/]114.114.114.114
 [/cz8.com/]114.114.114.114
 [/cz89.com/]114.114.114.114
 [/czb365.com/]114.114.114.114
@@ -18945,6 +18944,7 @@ https://8.8.8.8/dns-query
 [/door-expo.com/]114.114.114.114
 [/dooreb.com/]114.114.114.114
 [/doorhr.com/]114.114.114.114
+[/doorzo.net/]114.114.114.114
 [/doowinfintec.com/]114.114.114.114
 [/dopa.com/]114.114.114.114
 [/dopic.net/]114.114.114.114
@@ -19437,6 +19437,7 @@ https://8.8.8.8/dns-query
 [/duotai.net/]114.114.114.114
 [/duote.com/]114.114.114.114
 [/duotegame.com/]114.114.114.114
+[/duoti181.shop/]114.114.114.114
 [/duotoupiao.com/]114.114.114.114
 [/duotuwang.com/]114.114.114.114
 [/duouoo.com/]114.114.114.114
@@ -23984,7 +23985,6 @@ https://8.8.8.8/dns-query
 [/goodzuji.com/]114.114.114.114
 [/goofish.com/]114.114.114.114
 [/googlebridge.com/]114.114.114.114
-[/googlefonts.net/]114.114.114.114
 [/googlenav.com/]114.114.114.114
 [/googlevip8.com/]114.114.114.114
 [/googlevoice.org/]114.114.114.114
@@ -30848,6 +30848,7 @@ https://8.8.8.8/dns-query
 [/jdcloudcs.com/]114.114.114.114
 [/jdcloudedge.com/]114.114.114.114
 [/jdcloudnaming.net/]114.114.114.114
+[/jdcloudstatic.com/]114.114.114.114
 [/jdcloudstatic.net/]114.114.114.114
 [/jdcloudstatus.net/]114.114.114.114
 [/jdcloudwaf.com/]114.114.114.114
@@ -31496,6 +31497,7 @@ https://8.8.8.8/dns-query
 [/jinbikan.com/]114.114.114.114
 [/jinbilianmeng.com/]114.114.114.114
 [/jinbitou.net/]114.114.114.114
+[/jinbuguo.com/]114.114.114.114
 [/jincaicaiwu.com/]114.114.114.114
 [/jinchanbest.com/]114.114.114.114
 [/jinchuang.org/]114.114.114.114
@@ -32031,7 +32033,6 @@ https://8.8.8.8/dns-query
 [/jkgood.com/]114.114.114.114
 [/jkhapp.com/]114.114.114.114
 [/jkimg.net/]114.114.114.114
-[/jkjkjiankang.com/]114.114.114.114
 [/jkjzt.com/]114.114.114.114
 [/jkpan.cc/]114.114.114.114
 [/jkpj.com/]114.114.114.114
@@ -32450,7 +32451,6 @@ https://8.8.8.8/dns-query
 [/jshsoft.com/]114.114.114.114
 [/jshuachen.com/]114.114.114.114
 [/jshy.com/]114.114.114.114
-[/jshylm.com/]114.114.114.114
 [/jsielxo.com/]114.114.114.114
 [/jsifaja.com/]114.114.114.114
 [/jsimg.cc/]114.114.114.114
@@ -33809,7 +33809,6 @@ https://8.8.8.8/dns-query
 [/kknn.com/]114.114.114.114
 [/kknss.com/]114.114.114.114
 [/kkoot.com/]114.114.114.114
-[/kkr5.com/]114.114.114.114
 [/kkredian.com/]114.114.114.114
 [/kks.me/]114.114.114.114
 [/kksmg.com/]114.114.114.114
@@ -33991,6 +33990,7 @@ https://8.8.8.8/dns-query
 [/koreaxing.com/]114.114.114.114
 [/korimscdn.com/]114.114.114.114
 [/korirl.com/]114.114.114.114
+[/korosensei.com/]114.114.114.114
 [/kotei-info.com/]114.114.114.114
 [/kotex-km.com/]114.114.114.114
 [/koto.com/]114.114.114.114
@@ -35550,6 +35550,7 @@ https://8.8.8.8/dns-query
 [/licat.com/]114.114.114.114
 [/lichangtai.com/]114.114.114.114
 [/lichangtao.com/]114.114.114.114
+[/lichee.pro/]114.114.114.114
 [/lichenglove.com/]114.114.114.114
 [/lichengwu.net/]114.114.114.114
 [/lichenjy.com/]114.114.114.114
@@ -36544,7 +36545,6 @@ https://8.8.8.8/dns-query
 [/lovestu.com/]114.114.114.114
 [/loveteemo.com/]114.114.114.114
 [/loveuav.com/]114.114.114.114
-[/loveunix.net/]114.114.114.114
 [/lovev.com/]114.114.114.114
 [/lovewith.me/]114.114.114.114
 [/lovewj.info/]114.114.114.114
@@ -38224,6 +38224,7 @@ https://8.8.8.8/dns-query
 [/miaohealth.net/]114.114.114.114
 [/miaokaikeji.com/]114.114.114.114
 [/miaokaiyun.com/]114.114.114.114
+[/miaokee.com/]114.114.114.114
 [/miaole1024.com/]114.114.114.114
 [/miaomaicar.com/]114.114.114.114
 [/miaomiaoxue.com/]114.114.114.114
@@ -39893,6 +39894,7 @@ https://8.8.8.8/dns-query
 [/nbahero.com/]114.114.114.114
 [/nbahi.com/]114.114.114.114
 [/nbahjx.com/]114.114.114.114
+[/nbaidai.com/]114.114.114.114
 [/nball.cc/]114.114.114.114
 [/nbaqmq.com/]114.114.114.114
 [/nbayaobasketballclub.com/]114.114.114.114
@@ -41726,6 +41728,7 @@ https://8.8.8.8/dns-query
 [/pandadastudio.com/]114.114.114.114
 [/pandafoundation.org/]114.114.114.114
 [/pandahelp.vip/]114.114.114.114
+[/pandahome.org/]114.114.114.114
 [/pandainc.cc/]114.114.114.114
 [/pandaminer.com/]114.114.114.114
 [/pandara.xyz/]114.114.114.114
@@ -42200,7 +42203,6 @@ https://8.8.8.8/dns-query
 [/phpcomposer.com/]114.114.114.114
 [/phpconchina.com/]114.114.114.114
 [/phpcoo.com/]114.114.114.114
-[/phpcto.org/]114.114.114.114
 [/phpddt.com/]114.114.114.114
 [/phpdr.net/]114.114.114.114
 [/phpe.net/]114.114.114.114
@@ -46247,7 +46249,6 @@ https://8.8.8.8/dns-query
 [/sdwgyy.com/]114.114.114.114
 [/sdwscgs.com/]114.114.114.114
 [/sdx.microsoft.com/]114.114.114.114
-[/sdxczn.com/]114.114.114.114
 [/sdxietong.com/]114.114.114.114
 [/sdxinboao.com/]114.114.114.114
 [/sdxitong.com/]114.114.114.114
@@ -46473,7 +46474,6 @@ https://8.8.8.8/dns-query
 [/seoxiaosai.com/]114.114.114.114
 [/seoxuetang.com/]114.114.114.114
 [/seoyu.net/]114.114.114.114
-[/seozhuanjia.com/]114.114.114.114
 [/sepact.com/]114.114.114.114
 [/sepri.com/]114.114.114.114
 [/septinn.com/]114.114.114.114
@@ -52483,6 +52483,7 @@ https://8.8.8.8/dns-query
 [/tyi365.com/]114.114.114.114
 [/tyjmmy.com/]114.114.114.114
 [/tyjmqz.com/]114.114.114.114
+[/tykeji.vip/]114.114.114.114
 [/tyksl.com/]114.114.114.114
 [/tymcdn.com/]114.114.114.114
 [/tyn.cc/]114.114.114.114
@@ -53851,6 +53852,7 @@ https://8.8.8.8/dns-query
 [/vrpowder.com/]114.114.114.114
 [/vrrw.net/]114.114.114.114
 [/vrsat.com/]114.114.114.114
+[/vrupup.com/]114.114.114.114
 [/vrvlink.com/]114.114.114.114
 [/vrvmanager.com/]114.114.114.114
 [/vrwuhan.com/]114.114.114.114
@@ -58270,7 +58272,6 @@ https://8.8.8.8/dns-query
 [/xjltp.com/]114.114.114.114
 [/xjlxw.com/]114.114.114.114
 [/xjlz365.com/]114.114.114.114
-[/xjmglr.com/]114.114.114.114
 [/xjmty.com/]114.114.114.114
 [/xjmw.net/]114.114.114.114
 [/xjpdf.com/]114.114.114.114
@@ -58533,7 +58534,6 @@ https://8.8.8.8/dns-query
 [/xp5.com/]114.114.114.114
 [/xp6000.com/]114.114.114.114
 [/xp666.com/]114.114.114.114
-[/xp74.com/]114.114.114.114
 [/xp85.com/]114.114.114.114
 [/xp868.com/]114.114.114.114
 [/xp933.com/]114.114.114.114
@@ -59794,6 +59794,7 @@ https://8.8.8.8/dns-query
 [/ygwenxue.com/]114.114.114.114
 [/ygwh.cc/]114.114.114.114
 [/ygym.org/]114.114.114.114
+[/ygzt.net/]114.114.114.114
 [/yh596.com/]114.114.114.114
 [/yh598.com/]114.114.114.114
 [/yh99.cc/]114.114.114.114
@@ -62596,7 +62597,6 @@ https://8.8.8.8/dns-query
 [/zgw.com/]114.114.114.114
 [/zgweimeng.com/]114.114.114.114
 [/zgwenku.com/]114.114.114.114
-[/zgwgfw.com/]114.114.114.114
 [/zgwhfe.com/]114.114.114.114
 [/zgwhw.com/]114.114.114.114
 [/zgwlcsj.com/]114.114.114.114
@@ -63833,6 +63833,7 @@ https://8.8.8.8/dns-query
 [/zjjbtl.com/]114.114.114.114
 [/zjjd.org/]114.114.114.114
 [/zjjgcyz.com/]114.114.114.114
+[/zjjizhi.com/]114.114.114.114
 [/zjjlvyou8264.com/]114.114.114.114
 [/zjjr.com/]114.114.114.114
 [/zjjsbank.com/]114.114.114.114
