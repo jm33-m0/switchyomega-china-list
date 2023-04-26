@@ -38,6 +38,10 @@ https://8.8.8.8/dns-query
 # my domains
 [/jm33.local/]127.0.0.1
 
+# fuck China bing
+[/bing.com/]https://1.1.1.1/dns-query
+[/msn.com/]https://1.1.1.1/dns-query
+
 # Apple domains
 [/a1.mzstatic.com/]114.114.114.114
 [/a2.mzstatic.com/]114.114.114.114
