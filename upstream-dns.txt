@@ -3736,9 +3736,12 @@ https://8.8.8.8/dns-query
 [/517huwai.com/]114.114.114.114
 [/517idc.com/]114.114.114.114
 [/517japan.com/]114.114.114.114
+[/517la.com/]114.114.114.114
+[/517la.net/]114.114.114.114
 [/517lppz.com/]114.114.114.114
 [/517ming.com/]114.114.114.114
 [/517mr.com/]114.114.114.114
+[/517na.com/]114.114.114.114
 [/517rcw.com/]114.114.114.114
 [/517sc.com/]114.114.114.114
 [/517tez.com/]114.114.114.114
@@ -18773,7 +18776,6 @@ https://8.8.8.8/dns-query
 [/dongqiudi.com/]114.114.114.114
 [/dongqiudi.net/]114.114.114.114
 [/dongsenzs.com/]114.114.114.114
-[/dongshenghuiyang.com/]114.114.114.114
 [/dongshou.com/]114.114.114.114
 [/dongsport.com/]114.114.114.114
 [/dongtaijt.com/]114.114.114.114
@@ -34512,6 +34514,7 @@ https://8.8.8.8/dns-query
 [/lanrenzhaofang.com/]114.114.114.114
 [/lanrenzhijia.com/]114.114.114.114
 [/lanrenzhoumo.com/]114.114.114.114
+[/lansancn.com/]114.114.114.114
 [/lansedongli.com/]114.114.114.114
 [/lansha.tv/]114.114.114.114
 [/lanshanweb.com/]114.114.114.114
@@ -38623,7 +38626,6 @@ https://8.8.8.8/dns-query
 [/moeli123.com/]114.114.114.114
 [/moemiao.net/]114.114.114.114
 [/moeover.com/]114.114.114.114
-[/moerail.ml/]114.114.114.114
 [/moerkeji.net/]114.114.114.114
 [/moerlong.com/]114.114.114.114
 [/moetu.org/]114.114.114.114
@@ -39540,7 +39542,6 @@ https://8.8.8.8/dns-query
 [/namisoft.com/]114.114.114.114
 [/namitiyu.com/]114.114.114.114
 [/namoc.org/]114.114.114.114
-[/nanadao.com/]114.114.114.114
 [/nanapro.org/]114.114.114.114
 [/nanbeijt.com/]114.114.114.114
 [/nanbeiyou.com/]114.114.114.114
@@ -40921,6 +40922,7 @@ https://8.8.8.8/dns-query
 [/onche.net/]114.114.114.114
 [/oncity.cc/]114.114.114.114
 [/one-all.com/]114.114.114.114
+[/one-netbook.com/]114.114.114.114
 [/one918.com/]114.114.114.114
 [/onealert.com/]114.114.114.114
 [/oneapm.com/]114.114.114.114
@@ -41015,6 +41017,7 @@ https://8.8.8.8/dns-query
 [/oomake.com/]114.114.114.114
 [/ooniu.com/]114.114.114.114
 [/ooogo.com/]114.114.114.114
+[/ooooai.com/]114.114.114.114
 [/ooopic.com/]114.114.114.114
 [/ooopn.com/]114.114.114.114
 [/ooppoo.com/]114.114.114.114
@@ -49033,7 +49036,6 @@ https://8.8.8.8/dns-query
 [/sun0769.com/]114.114.114.114
 [/sun0769ns.com/]114.114.114.114
 [/sun0816.com/]114.114.114.114
-[/sun19.com/]114.114.114.114
 [/sun66.net/]114.114.114.114
 [/sunacctg.com/]114.114.114.114
 [/sunater.com/]114.114.114.114
@@ -52569,6 +52571,7 @@ https://8.8.8.8/dns-query
 [/umaman.com/]114.114.114.114
 [/umbpay.com/]114.114.114.114
 [/umcloud.com/]114.114.114.114
+[/umdac.com/]114.114.114.114
 [/umeng.co/]114.114.114.114
 [/umeng.com/]114.114.114.114
 [/umeng.online/]114.114.114.114
