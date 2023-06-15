@@ -15,9 +15,8 @@ wget -O accelerated-domains.china.conf "$upstream_url" || {
 echo "*.cn" >china-list.txt
 awk -F '/' '{print "*."$2}' <accelerated-domains.china.conf >>china-list.txt
 
-echo '
-# upstream servers
-10.2.3.1
+echo '# upstream servers
+https://9.9.9.9/dns-query
 https://1.1.1.1/dns-query
 https://8.8.8.8/dns-query
 
