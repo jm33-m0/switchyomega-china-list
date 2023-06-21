@@ -5887,7 +5887,6 @@ https://8.8.8.8/dns-query
 [/8090xx.com/]114.114.114.114
 [/8090yx.com/]114.114.114.114
 [/8090yxs.com/]114.114.114.114
-[/809803.com/]114.114.114.114
 [/809926.net/]114.114.114.114
 [/80baicai.biz/]114.114.114.114
 [/80bi.com/]114.114.114.114
@@ -7954,7 +7953,6 @@ https://8.8.8.8/dns-query
 [/aiweibang.com/]114.114.114.114
 [/aiweline.com/]114.114.114.114
 [/aiwen.cc/]114.114.114.114
-[/aiwenwo.net/]114.114.114.114
 [/aiwenyi.com/]114.114.114.114
 [/aiworkspace.com/]114.114.114.114
 [/aiwulao.com/]114.114.114.114
@@ -17442,6 +17440,7 @@ https://8.8.8.8/dns-query
 [/dazhe5.com/]114.114.114.114
 [/dazhenzimiao.com/]114.114.114.114
 [/dazhewa.com/]114.114.114.114
+[/dazhong.com/]114.114.114.114
 [/dazhongbanben.com/]114.114.114.114
 [/dazhonghr.com/]114.114.114.114
 [/dazhoumzj.com/]114.114.114.114
@@ -18294,6 +18293,7 @@ https://8.8.8.8/dns-query
 [/diygogogo.com/]114.114.114.114
 [/diygw.com/]114.114.114.114
 [/diyhi.com/]114.114.114.114
+[/diyiapp.com/]114.114.114.114
 [/diyicai.com/]114.114.114.114
 [/diyidan.com/]114.114.114.114
 [/diyidan.net/]114.114.114.114
@@ -20783,6 +20783,7 @@ https://8.8.8.8/dns-query
 [/excelpx.com/]114.114.114.114
 [/exceltip.net/]114.114.114.114
 [/exchen.net/]114.114.114.114
+[/excm.net/]114.114.114.114
 [/exdoll.com/]114.114.114.114
 [/exexm.com/]114.114.114.114
 [/exezhanqun.com/]114.114.114.114
@@ -39008,6 +39009,7 @@ https://8.8.8.8/dns-query
 [/mumayi.com/]114.114.114.114
 [/mumu01.com/]114.114.114.114
 [/muniao.com/]114.114.114.114
+[/mupao.com/]114.114.114.114
 [/mupceet.com/]114.114.114.114
 [/mupmstx.com/]114.114.114.114
 [/murdermysterypa.com/]114.114.114.114
@@ -42758,6 +42760,7 @@ https://8.8.8.8/dns-query
 [/pystarter.com/]114.114.114.114
 [/pytgo.com/]114.114.114.114
 [/python-china.com/]114.114.114.114
+[/python100.com/]114.114.114.114
 [/python51.com/]114.114.114.114
 [/pythonav.com/]114.114.114.114
 [/pythonclub.org/]114.114.114.114
@@ -48664,6 +48667,7 @@ https://8.8.8.8/dns-query
 [/starpiao.com/]114.114.114.114
 [/starrockinvest.com/]114.114.114.114
 [/starrtc.com/]114.114.114.114
+[/starrydyn.com/]114.114.114.114
 [/starrysurvey.com/]114.114.114.114
 [/stars-one.site/]114.114.114.114
 [/starschina.com/]114.114.114.114
@@ -57710,6 +57714,7 @@ https://8.8.8.8/dns-query
 [/xitek.net/]114.114.114.114
 [/xitie.com/]114.114.114.114
 [/xitieba.com/]114.114.114.114
+[/xitieba.net/]114.114.114.114
 [/xitmi.com/]114.114.114.114
 [/xitong-tech.com/]114.114.114.114
 [/xitong110.com/]114.114.114.114
@@ -63870,6 +63875,7 @@ https://8.8.8.8/dns-query
 [/zshield.net/]114.114.114.114
 [/zshl.com/]114.114.114.114
 [/zshlife.com/]114.114.114.114
+[/zshtys888.com/]114.114.114.114
 [/zshuoshao.online/]114.114.114.114
 [/zsia.org/]114.114.114.114
 [/zsihuo.com/]114.114.114.114
