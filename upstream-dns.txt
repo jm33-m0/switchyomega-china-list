@@ -6261,7 +6261,6 @@ https://8.8.8.8/dns-query
 [/8tupian.com/]114.114.114.114
 [/8twan.com/]114.114.114.114
 [/8u58.com/]114.114.114.114
-[/8uka.com/]114.114.114.114
 [/8uyx.com/]114.114.114.114
 [/8wan.com/]114.114.114.114
 [/8win.net/]114.114.114.114
@@ -8629,6 +8628,7 @@ https://8.8.8.8/dns-query
 [/aocde.com/]114.114.114.114
 [/aocdn.com/]114.114.114.114
 [/aoch.com/]114.114.114.114
+[/aochengcdn.com/]114.114.114.114
 [/aoclia.com/]114.114.114.114
 [/aocslb.com/]114.114.114.114
 [/aodabo.tech/]114.114.114.114
@@ -41332,7 +41332,6 @@ https://8.8.8.8/dns-query
 [/panasonicmall.com/]114.114.114.114
 [/panchuang.net/]114.114.114.114
 [/panda-home.com/]114.114.114.114
-[/panda321.com/]114.114.114.114
 [/panda98.com/]114.114.114.114
 [/pandadastudio.com/]114.114.114.114
 [/pandafoundation.org/]114.114.114.114
@@ -60877,6 +60876,7 @@ https://8.8.8.8/dns-query
 [/yuebei.vip/]114.114.114.114
 [/yuebingcheng.com/]114.114.114.114
 [/yuebooemt.com/]114.114.114.114
+[/yuecdn.net/]114.114.114.114
 [/yuecheng.com/]114.114.114.114
 [/yuedaoec.com/]114.114.114.114
 [/yuedisk.com/]114.114.114.114
@@ -60917,6 +60917,7 @@ https://8.8.8.8/dns-query
 [/yuesuoping.com/]114.114.114.114
 [/yuetu.tech/]114.114.114.114
 [/yuetutu.com/]114.114.114.114
+[/yuetuvip.com/]114.114.114.114
 [/yuetuvip.net/]114.114.114.114
 [/yuetx.cc/]114.114.114.114
 [/yueweimusic.com/]114.114.114.114
@@ -61328,7 +61329,6 @@ https://8.8.8.8/dns-query
 [/yuzhulin.com/]114.114.114.114
 [/yuzi.net/]114.114.114.114
 [/yuzvf.com/]114.114.114.114
-[/yveqi.com/]114.114.114.114
 [/yvv.in/]114.114.114.114
 [/yvzfgigpiwmofux.com/]114.114.114.114
 [/yw11.com/]114.114.114.114
