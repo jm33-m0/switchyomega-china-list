@@ -6384,7 +6384,6 @@ https://8.8.8.8/dns-query
 [/91985.com/]114.114.114.114
 [/91ac.com/]114.114.114.114
 [/91act.com/]114.114.114.114
-[/91aliyun.com/]114.114.114.114
 [/91all.net/]114.114.114.114
 [/91anjian.com/]114.114.114.114
 [/91art.net/]114.114.114.114
@@ -8978,6 +8977,7 @@ https://8.8.8.8/dns-query
 [/ares.dl.playstation.net/]114.114.114.114
 [/arestech-sz.com/]114.114.114.114
 [/areweloongyet.com/]114.114.114.114
+[/arfans.com/]114.114.114.114
 [/arhieason.com/]114.114.114.114
 [/arhoo.com/]114.114.114.114
 [/ariesmob.com/]114.114.114.114
@@ -10340,6 +10340,7 @@ https://8.8.8.8/dns-query
 [/bendibao.com/]114.114.114.114
 [/bendiso.com/]114.114.114.114
 [/bendiw.cc/]114.114.114.114
+[/bendizhidao.com/]114.114.114.114
 [/benduo.net/]114.114.114.114
 [/benellimotor.com/]114.114.114.114
 [/bengbeng.com/]114.114.114.114
@@ -26349,6 +26350,7 @@ https://8.8.8.8/dns-query
 [/hi2000.net/]114.114.114.114
 [/hiaal.com/]114.114.114.114
 [/hiagr.com/]114.114.114.114
+[/hiaiabc.com/]114.114.114.114
 [/hiapk.com/]114.114.114.114
 [/hiavr.com/]114.114.114.114
 [/hibea.com/]114.114.114.114
@@ -32137,7 +32139,6 @@ https://8.8.8.8/dns-query
 [/jpbeta.net/]114.114.114.114
 [/jpchinapress.com/]114.114.114.114
 [/jpeen.com/]114.114.114.114
-[/jpegonline.com/]114.114.114.114
 [/jperation.com/]114.114.114.114
 [/jpg.cm/]114.114.114.114
 [/jpggod.com/]114.114.114.114
@@ -38658,6 +38659,7 @@ https://8.8.8.8/dns-query
 [/mobotap.com/]114.114.114.114
 [/mobring.co/]114.114.114.114
 [/mobrtb.com/]114.114.114.114
+[/mobsurl.com/]114.114.114.114
 [/mobtou.com/]114.114.114.114
 [/mobvoi.com/]114.114.114.114
 [/mocache.com/]114.114.114.114
@@ -39081,6 +39083,7 @@ https://8.8.8.8/dns-query
 [/mtcsys.com/]114.114.114.114
 [/mtcx99.com/]114.114.114.114
 [/mtcxsw.com/]114.114.114.114
+[/mtcxx.com/]114.114.114.114
 [/mtdpai.com/]114.114.114.114
 [/mtdpgame.com/]114.114.114.114
 [/mtedu.com/]114.114.114.114
@@ -39448,6 +39451,7 @@ https://8.8.8.8/dns-query
 [/mypethome.com/]114.114.114.114
 [/mypian.com/]114.114.114.114
 [/mypiao.com/]114.114.114.114
+[/mypiaojia.com/]114.114.114.114
 [/mypitaya.com/]114.114.114.114
 [/mypity.com/]114.114.114.114
 [/mypm.net/]114.114.114.114
@@ -54335,6 +54339,7 @@ https://8.8.8.8/dns-query
 [/wdmcake.com/]114.114.114.114
 [/wdmuz.com/]114.114.114.114
 [/wdodo.com/]114.114.114.114
+[/wdomob.com/]114.114.114.114
 [/wdres.com/]114.114.114.114
 [/wdsrc.com/]114.114.114.114
 [/wdstory.com/]114.114.114.114
@@ -56965,6 +56970,7 @@ https://8.8.8.8/dns-query
 [/xhpiano.com/]114.114.114.114
 [/xhqqt.com/]114.114.114.114
 [/xhscdn.com/]114.114.114.114
+[/xhscdn.net/]114.114.114.114
 [/xhsd.com/]114.114.114.114
 [/xhslink.com/]114.114.114.114
 [/xhsyww.com/]114.114.114.114
@@ -60304,6 +60310,7 @@ https://8.8.8.8/dns-query
 [/ykqnl.com/]114.114.114.114
 [/ykread.com/]114.114.114.114
 [/yks365.com/]114.114.114.114
+[/yksdks.com/]114.114.114.114
 [/yksq.net/]114.114.114.114
 [/ykstarshine.com/]114.114.114.114
 [/yksuit.com/]114.114.114.114
