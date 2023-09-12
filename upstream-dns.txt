@@ -4403,7 +4403,6 @@ https://8.8.8.8/dns-query
 [/52solution.com/]114.114.114.114
 [/52souji.net/]114.114.114.114
 [/52souluo.com/]114.114.114.114
-[/52soutu.com/]114.114.114.114
 [/52survey.com/]114.114.114.114
 [/52svip.cc/]114.114.114.114
 [/52svn.com/]114.114.114.114
@@ -11804,6 +11803,7 @@ https://8.8.8.8/dns-query
 [/bx58.com/]114.114.114.114
 [/bxb2b.com/]114.114.114.114
 [/bxcc.vip/]114.114.114.114
+[/bxcqd.com/]114.114.114.114
 [/bxdaka.com/]114.114.114.114
 [/bxdlkj.com/]114.114.114.114
 [/bxemln.com/]114.114.114.114
@@ -29657,7 +29657,6 @@ https://8.8.8.8/dns-query
 [/ipuu.net/]114.114.114.114
 [/ipv4.host/]114.114.114.114
 [/ipv6dns.com/]114.114.114.114
-[/ipyker.com/]114.114.114.114
 [/ipyy.com/]114.114.114.114
 [/iq123.com/]114.114.114.114
 [/iqalliance.org/]114.114.114.114
@@ -32729,6 +32728,7 @@ https://8.8.8.8/dns-query
 [/kaiyuan.me/]114.114.114.114
 [/kaiyuangroup.cc/]114.114.114.114
 [/kaiyuanhotels.com/]114.114.114.114
+[/kaiyuanweilaikeji.com/]114.114.114.114
 [/kaiyun.com/]114.114.114.114
 [/kajicam.com/]114.114.114.114
 [/kaka.com/]114.114.114.114
@@ -37083,7 +37083,6 @@ https://8.8.8.8/dns-query
 [/markmall.com/]114.114.114.114
 [/markmiao.com/]114.114.114.114
 [/marknum.com/]114.114.114.114
-[/markonreview.com/]114.114.114.114
 [/markorchem.com/]114.114.114.114
 [/marksmile.com/]114.114.114.114
 [/marmot-cloud.com/]114.114.114.114
@@ -41241,7 +41240,6 @@ https://8.8.8.8/dns-query
 [/pandatv.com/]114.114.114.114
 [/pandoe.com/]114.114.114.114
 [/pandolia.net/]114.114.114.114
-[/pandownload.com/]114.114.114.114
 [/panduoduo.net/]114.114.114.114
 [/panduoduo.online/]114.114.114.114
 [/panewslab.com/]114.114.114.114
@@ -45035,6 +45033,7 @@ https://8.8.8.8/dns-query
 [/ruixunidc.com/]114.114.114.114
 [/ruixunidc.net/]114.114.114.114
 [/ruiyang-ra.com/]114.114.114.114
+[/ruiyuanobserve.com/]114.114.114.114
 [/ruiyunit.com/]114.114.114.114
 [/ruizong-gz.com/]114.114.114.114
 [/rujiazg.com/]114.114.114.114
@@ -51301,7 +51300,6 @@ https://8.8.8.8/dns-query
 [/tripbaba.com/]114.114.114.114
 [/tripbe.com/]114.114.114.114
 [/triphr.com/]114.114.114.114
-[/triple7photography.com/]114.114.114.114
 [/triplexservice.com/]114.114.114.114
 [/tripodeck.com/]114.114.114.114
 [/tripsanxia.net/]114.114.114.114
@@ -54846,7 +54844,6 @@ https://8.8.8.8/dns-query
 [/whzydz.com/]114.114.114.114
 [/whzyht.com/]114.114.114.114
 [/wi799.com/]114.114.114.114
-[/wiblog.net/]114.114.114.114
 [/wicep.com/]114.114.114.114
 [/wicp.net/]114.114.114.114
 [/wicp.vip/]114.114.114.114
@@ -60069,6 +60066,7 @@ https://8.8.8.8/dns-query
 [/yongsy.com/]114.114.114.114
 [/yongtu.net/]114.114.114.114
 [/yongxinby.com/]114.114.114.114
+[/yongxinji.com/]114.114.114.114
 [/yongxintex.com/]114.114.114.114
 [/yongzhentang.com/]114.114.114.114
 [/yonho.com/]114.114.114.114
@@ -61655,6 +61653,7 @@ https://8.8.8.8/dns-query
 [/zcsbbs.com/]114.114.114.114
 [/zcskj.com/]114.114.114.114
 [/zctl.net/]114.114.114.114
+[/zctpt.com/]114.114.114.114
 [/zctx.com/]114.114.114.114
 [/zcwlsc.com/]114.114.114.114
 [/zcwxjx.com/]114.114.114.114
@@ -61678,6 +61677,7 @@ https://8.8.8.8/dns-query
 [/zdexe.com/]114.114.114.114
 [/zdface.com/]114.114.114.114
 [/zdfx.net/]114.114.114.114
+[/zdgzc.com/]114.114.114.114
 [/zdh168.com/]114.114.114.114
 [/zdhaitao.com/]114.114.114.114
 [/zdhaitao.net/]114.114.114.114
