@@ -1991,7 +1991,6 @@ https://8.8.8.8/dns-query
 [/2022cdnpl.com/]114.114.114.114
 [/2022pola.com/]114.114.114.114
 [/2023game.com/]114.114.114.114
-[/2029.cc/]114.114.114.114
 [/202m.com/]114.114.114.114
 [/202wan.com/]114.114.114.114
 [/2048sj.com/]114.114.114.114
@@ -2691,7 +2690,6 @@ https://8.8.8.8/dns-query
 [/33aml.com/]114.114.114.114
 [/33app.net/]114.114.114.114
 [/33bus.com/]114.114.114.114
-[/33hei.com/]114.114.114.114
 [/33ip.com/]114.114.114.114
 [/33iq.com/]114.114.114.114
 [/33jianzhi.com/]114.114.114.114
@@ -5565,7 +5563,6 @@ https://8.8.8.8/dns-query
 [/77dushu.com/]114.114.114.114
 [/77ebooks.com/]114.114.114.114
 [/77hd.com/]114.114.114.114
-[/77hei.com/]114.114.114.114
 [/77l.com/]114.114.114.114
 [/77mh.app/]114.114.114.114
 [/77music.com/]114.114.114.114
@@ -12242,6 +12239,7 @@ https://8.8.8.8/dns-query
 [/capitalcloud.net/]114.114.114.114
 [/capitalonline.net/]114.114.114.114
 [/capjoy.com/]114.114.114.114
+[/caplanking.com/]114.114.114.114
 [/capsuleshanghai.com/]114.114.114.114
 [/capvision.com/]114.114.114.114
 [/capwhale.com/]114.114.114.114
@@ -29235,7 +29233,6 @@ https://8.8.8.8/dns-query
 [/indier.com/]114.114.114.114
 [/indmi.com/]114.114.114.114
 [/induta.com/]114.114.114.114
-[/indvaan.com/]114.114.114.114
 [/ineice.com/]114.114.114.114
 [/inengyuan.com/]114.114.114.114
 [/inesa-it.com/]114.114.114.114
@@ -31870,7 +31867,6 @@ https://8.8.8.8/dns-query
 [/jsdaima.com/]114.114.114.114
 [/jsdcly.com/]114.114.114.114
 [/jsdesign1.com/]114.114.114.114
-[/jsdthx.com/]114.114.114.114
 [/jseepub.com/]114.114.114.114
 [/jseoptics.com/]114.114.114.114
 [/jser.io/]114.114.114.114
@@ -33706,7 +33702,6 @@ https://8.8.8.8/dns-query
 [/kuguopush.com/]114.114.114.114
 [/kugz.net/]114.114.114.114
 [/kuhii.com/]114.114.114.114
-[/kuhua.net/]114.114.114.114
 [/kuicc.com/]114.114.114.114
 [/kuihuakeji.com/]114.114.114.114
 [/kuihuo.com/]114.114.114.114
@@ -40111,7 +40106,6 @@ https://8.8.8.8/dns-query
 [/ntrcb.com/]114.114.114.114
 [/nttui.com/]114.114.114.114
 [/ntuiw.com/]114.114.114.114
-[/ntvalumium.com/]114.114.114.114
 [/ntwikis.com/]114.114.114.114
 [/ntwzy.com/]114.114.114.114
 [/ntyswlkj.com/]114.114.114.114
@@ -41013,7 +41007,6 @@ https://8.8.8.8/dns-query
 [/pabulika.com/]114.114.114.114
 [/pacdn.com/]114.114.114.114
 [/pacgatelaw.com/]114.114.114.114
-[/package-design.net/]114.114.114.114
 [/packtom.com/]114.114.114.114
 [/packty.com/]114.114.114.114
 [/pactera.com/]114.114.114.114
@@ -41339,7 +41332,6 @@ https://8.8.8.8/dns-query
 [/pddcdn.com/]114.114.114.114
 [/pddeu.com/]114.114.114.114
 [/pddim.com/]114.114.114.114
-[/pddjw.com/]114.114.114.114
 [/pddpic.com/]114.114.114.114
 [/pddugc.com/]114.114.114.114
 [/pddzj.com/]114.114.114.114
@@ -49520,7 +49512,6 @@ https://8.8.8.8/dns-query
 [/tangrenjv.com/]114.114.114.114
 [/tangruiqian.com/]114.114.114.114
 [/tangsanshu.com/]114.114.114.114
-[/tangshencs.com/]114.114.114.114
 [/tangshijun.com/]114.114.114.114
 [/tangshuang.net/]114.114.114.114
 [/tangshui.net/]114.114.114.114
@@ -52455,6 +52446,7 @@ https://8.8.8.8/dns-query
 [/uuzham.com/]114.114.114.114
 [/uuzhufu.com/]114.114.114.114
 [/uuzo.net/]114.114.114.114
+[/uuzone.com/]114.114.114.114
 [/uuzu.com/]114.114.114.114
 [/uuzuonline.com/]114.114.114.114
 [/uuzuonline.net/]114.114.114.114
@@ -53676,6 +53668,7 @@ https://8.8.8.8/dns-query
 [/wboll.com/]114.114.114.114
 [/wbolt.com/]114.114.114.114
 [/wbpvc.com/]114.114.114.114
+[/wbsdz.com/]114.114.114.114
 [/wbsrf.com/]114.114.114.114
 [/wbsz.com/]114.114.114.114
 [/wbtech.com/]114.114.114.114
