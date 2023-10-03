@@ -2040,7 +2040,6 @@ https://8.8.8.8/dns-query
 [/21cn.com/]114.114.114.114
 [/21cn.net/]114.114.114.114
 [/21cnev.com/]114.114.114.114
-[/21cnimg.com/]114.114.114.114
 [/21cnjy.com/]114.114.114.114
 [/21cnjy.net/]114.114.114.114
 [/21cnsungate.com/]114.114.114.114
@@ -3445,6 +3444,7 @@ https://8.8.8.8/dns-query
 [/474b.com/]114.114.114.114
 [/4765.com/]114.114.114.114
 [/4779.com/]114.114.114.114
+[/477zw.com/]114.114.114.114
 [/47819.com/]114.114.114.114
 [/47gs.com/]114.114.114.114
 [/47test.com/]114.114.114.114
@@ -7707,7 +7707,6 @@ https://8.8.8.8/dns-query
 [/aimeicity.com/]114.114.114.114
 [/aimeideni.com/]114.114.114.114
 [/aimeike.tv/]114.114.114.114
-[/aimeit.com/]114.114.114.114
 [/aimingtai.com/]114.114.114.114
 [/aimipay.net/]114.114.114.114
 [/aimiplay.com/]114.114.114.114
@@ -9922,7 +9921,6 @@ https://8.8.8.8/dns-query
 [/bbsaso.com/]114.114.114.114
 [/bbsds.com/]114.114.114.114
 [/bbsheji.com/]114.114.114.114
-[/bbshuwu.com/]114.114.114.114
 [/bbsls.net/]114.114.114.114
 [/bbsmax.com/]114.114.114.114
 [/bbsnet.com/]114.114.114.114
@@ -10536,7 +10534,6 @@ https://8.8.8.8/dns-query
 [/bilibiligame.net/]114.114.114.114
 [/bilibilihelper.com/]114.114.114.114
 [/bilibilijj.com/]114.114.114.114
-[/bilibilis0.one/]114.114.114.114
 [/bilicdn1.com/]114.114.114.114
 [/bilicdn2.com/]114.114.114.114
 [/bilicomic.com/]114.114.114.114
@@ -22980,6 +22977,7 @@ https://8.8.8.8/dns-query
 [/getmarkman.com/]114.114.114.114
 [/getquicker.net/]114.114.114.114
 [/getsurfboard.com/]114.114.114.114
+[/getu.fun/]114.114.114.114
 [/getui.com/]114.114.114.114
 [/getui.net/]114.114.114.114
 [/getui.vip/]114.114.114.114
@@ -25216,7 +25214,6 @@ https://8.8.8.8/dns-query
 [/hb-hengda.com/]114.114.114.114
 [/hb-ly.com/]114.114.114.114
 [/hb-ws.com/]114.114.114.114
-[/hb-wtw.com/]114.114.114.114
 [/hb10000.com/]114.114.114.114
 [/hb10000sale.com/]114.114.114.114
 [/hb110.cc/]114.114.114.114
@@ -34989,7 +34986,6 @@ https://8.8.8.8/dns-query
 [/lifevc.com/]114.114.114.114
 [/lifevccdn.com/]114.114.114.114
 [/lifeweeker.com/]114.114.114.114
-[/lifeweekly.cc/]114.114.114.114
 [/lifeyk.com/]114.114.114.114
 [/lifox.net/]114.114.114.114
 [/lifushop.com/]114.114.114.114
@@ -35877,7 +35873,6 @@ https://8.8.8.8/dns-query
 [/louding.com/]114.114.114.114
 [/louge.ltd/]114.114.114.114
 [/louislivi.com/]114.114.114.114
-[/louisvv.com/]114.114.114.114
 [/loukee.com/]114.114.114.114
 [/loukky.com/]114.114.114.114
 [/loulansheji.com/]114.114.114.114
@@ -40475,7 +40470,6 @@ https://8.8.8.8/dns-query
 [/onceoa.com/]114.114.114.114
 [/onche.net/]114.114.114.114
 [/oncity.cc/]114.114.114.114
-[/ondeals.net/]114.114.114.114
 [/one-all.com/]114.114.114.114
 [/one-netbook.com/]114.114.114.114
 [/one918.com/]114.114.114.114
@@ -42939,7 +42933,6 @@ https://8.8.8.8/dns-query
 [/qiman6.com/]114.114.114.114
 [/qimao.com/]114.114.114.114
 [/qimaomh.com/]114.114.114.114
-[/qimengshangwu.com/]114.114.114.114
 [/qimhua.com/]114.114.114.114
 [/qimi.com/]114.114.114.114
 [/qimiaomh.com/]114.114.114.114
@@ -48231,7 +48224,6 @@ https://8.8.8.8/dns-query
 [/starduster.me/]114.114.114.114
 [/starfivetech.com/]114.114.114.114
 [/stargame.com/]114.114.114.114
-[/staridc.net/]114.114.114.114
 [/starlight-generator.com/]114.114.114.114
 [/starlott.com/]114.114.114.114
 [/starming.com/]114.114.114.114
@@ -49058,7 +49050,6 @@ https://8.8.8.8/dns-query
 [/szcp.com/]114.114.114.114
 [/szcsot.com/]114.114.114.114
 [/szcssx.com/]114.114.114.114
-[/szcsw.com/]114.114.114.114
 [/szcua.org/]114.114.114.114
 [/szcwdz.com/]114.114.114.114
 [/szcy99.com/]114.114.114.114
@@ -50365,7 +50356,6 @@ https://8.8.8.8/dns-query
 [/time.izatcloud.net/]114.114.114.114
 [/timecoo.com/]114.114.114.114
 [/timedg.com/]114.114.114.114
-[/timenote.cc/]114.114.114.114
 [/timeofdate.com/]114.114.114.114
 [/timeoutbeijing.com/]114.114.114.114
 [/timeoutcn.com/]114.114.114.114
@@ -53584,7 +53574,6 @@ https://8.8.8.8/dns-query
 [/waynetechs.com/]114.114.114.114
 [/wayos.com/]114.114.114.114
 [/wayoulegal.com/]114.114.114.114
-[/wayoutv.com/]114.114.114.114
 [/wayoxi.com/]114.114.114.114
 [/waytit.com/]114.114.114.114
 [/wayzim.com/]114.114.114.114
