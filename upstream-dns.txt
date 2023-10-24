@@ -8546,6 +8546,7 @@ https://8.8.8.8/dns-query
 [/aoomoo.com/]114.114.114.114
 [/aoongmob.com/]114.114.114.114
 [/aopayun.com/]114.114.114.114
+[/aorankj.com/]114.114.114.114
 [/aoratec.com/]114.114.114.114
 [/aoscdn.com/]114.114.114.114
 [/aoscom.net/]114.114.114.114
@@ -14764,6 +14765,7 @@ https://8.8.8.8/dns-query
 [/clouddns.vip/]114.114.114.114
 [/clouddream.net/]114.114.114.114
 [/cloudflare-cn.com/]114.114.114.114
+[/cloudflarecn.net/]114.114.114.114
 [/cloudgap.net/]114.114.114.114
 [/cloudgfw.com/]114.114.114.114
 [/cloudgfw.net/]114.114.114.114
@@ -17820,7 +17822,6 @@ https://8.8.8.8/dns-query
 [/dianxin.net/]114.114.114.114
 [/dianxinnews.com/]114.114.114.114
 [/dianxinos.com/]114.114.114.114
-[/dianyatc.com/]114.114.114.114
 [/dianyingjie.com/]114.114.114.114
 [/dianyingshow.com/]114.114.114.114
 [/dianyingwenxue.com/]114.114.114.114
@@ -28917,6 +28918,7 @@ https://8.8.8.8/dns-query
 [/im577.com/]114.114.114.114
 [/im5i.com/]114.114.114.114
 [/imaccn.com/]114.114.114.114
+[/imacso.com/]114.114.114.114
 [/imaegoo.com/]114.114.114.114
 [/image-mangdiaxyz.com/]114.114.114.114
 [/imageaccelerate.com/]114.114.114.114
@@ -29195,6 +29197,7 @@ https://8.8.8.8/dns-query
 [/initialview.com/]114.114.114.114
 [/initroot.com/]114.114.114.114
 [/inja.com/]114.114.114.114
+[/injoinic.com/]114.114.114.114
 [/inkankan.com/]114.114.114.114
 [/inkanke.com/]114.114.114.114
 [/inkcn.com/]114.114.114.114
@@ -29212,6 +29215,7 @@ https://8.8.8.8/dns-query
 [/inmuu.com/]114.114.114.114
 [/inneed.club/]114.114.114.114
 [/innity.com/]114.114.114.114
+[/innity.net/]114.114.114.114
 [/innjia.com/]114.114.114.114
 [/innocn.com/]114.114.114.114
 [/innocomn.com/]114.114.114.114
@@ -31509,6 +31513,7 @@ https://8.8.8.8/dns-query
 [/jnzycw.com/]114.114.114.114
 [/jo43.com/]114.114.114.114
 [/joaquinchou.com/]114.114.114.114
+[/job-cunni.com/]114.114.114.114
 [/job0768.com/]114.114.114.114
 [/job10000.com/]114.114.114.114
 [/job1001.com/]114.114.114.114
@@ -38212,6 +38217,7 @@ https://8.8.8.8/dns-query
 [/mooreelite.com/]114.114.114.114
 [/mooreiot.com/]114.114.114.114
 [/mooreren.com/]114.114.114.114
+[/moorext.com/]114.114.114.114
 [/moowo.com/]114.114.114.114
 [/mop.com/]114.114.114.114
 [/mopaas.com/]114.114.114.114
@@ -40124,7 +40130,6 @@ https://8.8.8.8/dns-query
 [/oceanlau.com/]114.114.114.114
 [/oceanol.com/]114.114.114.114
 [/oceanplayable.com/]114.114.114.114
-[/oceeq.com/]114.114.114.114
 [/ocideal.com/]114.114.114.114
 [/ocimg.com/]114.114.114.114
 [/oclkj.com/]114.114.114.114
@@ -46407,6 +46412,7 @@ https://8.8.8.8/dns-query
 [/shopin.net/]114.114.114.114
 [/shopj.net/]114.114.114.114
 [/shopjyh.com/]114.114.114.114
+[/shoplazza.com/]114.114.114.114
 [/shopmaxmb.com/]114.114.114.114
 [/shopnc.net/]114.114.114.114
 [/shopplus.vip/]114.114.114.114
@@ -57560,7 +57566,6 @@ https://8.8.8.8/dns-query
 [/xsycps.com/]114.114.114.114
 [/xsyk021.com/]114.114.114.114
 [/xsyqmztg.com/]114.114.114.114
-[/xsyushan.com/]114.114.114.114
 [/xsyx.xyz/]114.114.114.114
 [/xsyxsc.com/]114.114.114.114
 [/xszp.cc/]114.114.114.114
@@ -60709,7 +60714,6 @@ https://8.8.8.8/dns-query
 [/ywshouyou.com/]114.114.114.114
 [/ywsoftware.com/]114.114.114.114
 [/ywtd.xyz/]114.114.114.114
-[/ywtrzm.com/]114.114.114.114
 [/ywtuchuang1.com/]114.114.114.114
 [/ywwpay.com/]114.114.114.114
 [/ywxue.com/]114.114.114.114
@@ -61860,6 +61864,7 @@ https://8.8.8.8/dns-query
 [/zhihjf.com/]114.114.114.114
 [/zhihu.com/]114.114.114.114
 [/zhihu.dev/]114.114.114.114
+[/zhihuclub.com/]114.114.114.114
 [/zhihudsp.com/]114.114.114.114
 [/zhihuiep.com/]114.114.114.114
 [/zhihuihuiwu.com/]114.114.114.114
@@ -61996,7 +62001,6 @@ https://8.8.8.8/dns-query
 [/zhiyinhao.com/]114.114.114.114
 [/zhiyinlou.com/]114.114.114.114
 [/zhiyinmedia.com/]114.114.114.114
-[/zhiyoo.com/]114.114.114.114
 [/zhiyoubao.com/]114.114.114.114
 [/zhiyousx.com/]114.114.114.114
 [/zhiyuan98.com/]114.114.114.114
@@ -62595,6 +62599,7 @@ https://8.8.8.8/dns-query
 [/zjapk.com/]114.114.114.114
 [/zjaqxy.com/]114.114.114.114
 [/zjautoparts.com/]114.114.114.114
+[/zjbinya.com/]114.114.114.114
 [/zjbiz.net/]114.114.114.114
 [/zjbyte.com/]114.114.114.114
 [/zjca.org/]114.114.114.114
