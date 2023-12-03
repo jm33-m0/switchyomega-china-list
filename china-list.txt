@@ -115,6 +115,7 @@
 *.021fenglei.com
 *.021fx.com
 *.021gjhb.com
+*.021hunbohui.com
 *.021ja.com
 *.021jingwei.com
 *.021jingwu.com
@@ -836,7 +837,6 @@
 *.114zpw.com
 *.114zw.org
 *.115.com
-*.11544.com
 *.1155871.com
 *.1156.com
 *.1156dns.com
@@ -10222,6 +10222,7 @@
 *.bihu.com
 *.bihubao.com
 *.biikan.com
+*.biioii.com
 *.biji13.com
 *.bijiago.com
 *.bijiagou.com
@@ -38329,6 +38330,7 @@
 *.myoldtime.com
 *.myopenwrt.org
 *.myoppo.com
+*.myorbita.net
 *.myottad.com
 *.myouth.net
 *.myp2pch.net
@@ -41335,7 +41337,6 @@
 *.poppur.com
 *.popqiu.com
 *.popsoft.com
-*.popu.org
 *.popumed.com
 *.poputar.com
 *.popziti.com
@@ -51561,6 +51562,7 @@
 *.utepo.com
 *.utermux.dev
 *.utfinancing.com
+*.utgd.net
 *.uthinks.com
 *.utiankong.com
 *.utogame.com
@@ -54713,6 +54715,7 @@
 *.wumii.com
 *.wumii.tv
 *.wuming.com
+*.wupfrl.com
 *.wuqing.cc
 *.wuqiong.info
 *.wuqishike.com
@@ -60222,7 +60225,6 @@
 *.yytek.com
 *.yytingli.com
 *.yyuap.com
-*.yyuasa.com
 *.yywlsj.com
 *.yywords.com
 *.yywt.online
