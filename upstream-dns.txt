@@ -3334,7 +3334,6 @@ https://8.8.8.8/dns-query
 [/389j.com/]114.114.114.114
 [/38blog.com/]114.114.114.114
 [/38ejed.com/]114.114.114.114
-[/38fan.com/]114.114.114.114
 [/38hack.com/]114.114.114.114
 [/38hot.net/]114.114.114.114
 [/38hp.com/]114.114.114.114
@@ -8785,6 +8784,7 @@ https://8.8.8.8/dns-query
 [/aliway.com/]114.114.114.114
 [/aliwd.com/]114.114.114.114
 [/aliwears.com/]114.114.114.114
+[/aliwork.com/]114.114.114.114
 [/aliwx.net/]114.114.114.114
 [/alixixi.com/]114.114.114.114
 [/alixox.com/]114.114.114.114
@@ -23056,6 +23056,8 @@ https://8.8.8.8/dns-query
 [/evzhidao.com/]114.114.114.114
 [/ew-wirestripping.com/]114.114.114.114
 [/ew52.com/]114.114.114.114
+[/ew80.com/]114.114.114.114
+[/ew80yun.com/]114.114.114.114
 [/ew9z.com/]114.114.114.114
 [/ewaga.com/]114.114.114.114
 [/ewang.com/]114.114.114.114
@@ -39008,7 +39010,6 @@ https://8.8.8.8/dns-query
 [/lanzoux.com/]114.114.114.114
 [/lanzouy.com/]114.114.114.114
 [/lanzun.net/]114.114.114.114
-[/lanzv.com/]114.114.114.114
 [/laobaigan-hs.com/]114.114.114.114
 [/laobandq.com/]114.114.114.114
 [/laobanfa.com/]114.114.114.114
@@ -44423,6 +44424,7 @@ https://8.8.8.8/dns-query
 [/myhayo.com/]114.114.114.114
 [/myhexin.com/]114.114.114.114
 [/myhithink.com/]114.114.114.114
+[/myhl-china315.com/]114.114.114.114
 [/myhomeok.com/]114.114.114.114
 [/myhongzuan.com/]114.114.114.114
 [/myhostadmin.net/]114.114.114.114
@@ -50955,6 +50957,7 @@ https://8.8.8.8/dns-query
 [/rn-hswh.com/]114.114.114.114
 [/rneok.com/]114.114.114.114
 [/rnfengwo.com/]114.114.114.114
+[/rngmoe.com/]114.114.114.114
 [/rngtest.com/]114.114.114.114
 [/rnhqxh.com/]114.114.114.114
 [/rnhy.net/]114.114.114.114
@@ -56483,6 +56486,7 @@ https://8.8.8.8/dns-query
 [/szldzb.com/]114.114.114.114
 [/szledia.org/]114.114.114.114
 [/szleezen.com/]114.114.114.114
+[/szlgzxyy.com/]114.114.114.114
 [/szlhtram.com/]114.114.114.114
 [/szlianya.net/]114.114.114.114
 [/szlightlink.com/]114.114.114.114
@@ -58995,7 +58999,6 @@ https://8.8.8.8/dns-query
 [/tugou.com/]114.114.114.114
 [/tugoucx.com/]114.114.114.114
 [/tuguaishou.com/]114.114.114.114
-[/tuhaihe.com/]114.114.114.114
 [/tuhaokuai.com/]114.114.114.114
 [/tuhu.com/]114.114.114.114
 [/tuhu.org/]114.114.114.114
@@ -64544,6 +64547,7 @@ https://8.8.8.8/dns-query
 [/xhscdn.net/]114.114.114.114
 [/xhsd.com/]114.114.114.114
 [/xhslink.com/]114.114.114.114
+[/xhslw.com/]114.114.114.114
 [/xhsyqx.com/]114.114.114.114
 [/xhsyww.com/]114.114.114.114
 [/xht.com.hk/]114.114.114.114
@@ -72255,7 +72259,6 @@ https://8.8.8.8/dns-query
 [/zjptcc.com/]114.114.114.114
 [/zjpubservice.com/]114.114.114.114
 [/zjqbj.com/]114.114.114.114
-[/zjqcwx.com/]114.114.114.114
 [/zjqichuang.com/]114.114.114.114
 [/zjrc.com/]114.114.114.114
 [/zjrc.net/]114.114.114.114
