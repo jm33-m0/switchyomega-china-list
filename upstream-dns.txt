@@ -4572,6 +4572,7 @@ https://8.8.8.8/dns-query
 [/52372.com/]114.114.114.114
 [/523touzi.com/]114.114.114.114
 [/52419.net/]114.114.114.114
+[/524399game.com/]114.114.114.114
 [/52488.com/]114.114.114.114
 [/525.life/]114.114.114.114
 [/5251.net/]114.114.114.114
@@ -16560,6 +16561,7 @@ https://8.8.8.8/dns-query
 [/cloud-links.net/]114.114.114.114
 [/cloud-neofussvr.sslcs.cdngc.net/]114.114.114.114
 [/cloud-rtc.com/]114.114.114.114
+[/cloud-rtc.net/]114.114.114.114
 [/cloud-scdn-ns.net/]114.114.114.114
 [/cloud-scdn-ns.tech/]114.114.114.114
 [/cloud-scdn.com/]114.114.114.114
@@ -28613,7 +28615,6 @@ https://8.8.8.8/dns-query
 [/haoyouyinxiang.com/]114.114.114.114
 [/haoyuanfurniture.com/]114.114.114.114
 [/haoyuanxiao.com/]114.114.114.114
-[/haoyue.asia/]114.114.114.114
 [/haoyue28.com/]114.114.114.114
 [/haoyuepu.com/]114.114.114.114
 [/haoyun13.com/]114.114.114.114
@@ -41959,6 +41960,7 @@ https://8.8.8.8/dns-query
 [/magicdata.io/]114.114.114.114
 [/magich5page.com/]114.114.114.114
 [/magicleaders.com/]114.114.114.114
+[/magicneko.com/]114.114.114.114
 [/magicnetmall.com/]114.114.114.114
 [/magicspinning.com/]114.114.114.114
 [/magicwatchface.com/]114.114.114.114
@@ -68634,7 +68636,6 @@ https://8.8.8.8/dns-query
 [/ym01.tech/]114.114.114.114
 [/ym1998.com/]114.114.114.114
 [/ym23.com/]114.114.114.114
-[/ym68.cc/]114.114.114.114
 [/ymadly.com/]114.114.114.114
 [/ymadx.com/]114.114.114.114
 [/ymailcampaign.com/]114.114.114.114
