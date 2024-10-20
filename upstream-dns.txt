@@ -5573,6 +5573,7 @@ https://8.8.8.8/dns-query
 [/5a8.org/]114.114.114.114
 [/5aaa.com/]114.114.114.114
 [/5acbd.com/]114.114.114.114
+[/5adanci.com/]114.114.114.114
 [/5adanhao.com/]114.114.114.114
 [/5ag.net/]114.114.114.114
 [/5ailiwu.com/]114.114.114.114
@@ -10279,6 +10280,7 @@ https://8.8.8.8/dns-query
 [/aohuatextiles.com/]114.114.114.114
 [/aojauto.com/]114.114.114.114
 [/aojia-oil.com/]114.114.114.114
+[/aojiahuashare.com/]114.114.114.114
 [/aojian.net/]114.114.114.114
 [/aojian2.net/]114.114.114.114
 [/aojiaostudio.com/]114.114.114.114
@@ -34601,7 +34603,6 @@ https://8.8.8.8/dns-query
 [/handyfriendship.com/]114.114.114.114
 [/hanergy.com/]114.114.114.114
 [/hanergymobileenergy.com/]114.114.114.114
-[/hanfang8.com/]114.114.114.114
 [/hanfei.net/]114.114.114.114
 [/hanfeiyl.com/]114.114.114.114
 [/hanfengcars.com/]114.114.114.114
@@ -43222,7 +43223,6 @@ https://8.8.8.8/dns-query
 [/jiningjj.com/]114.114.114.114
 [/jiniu.work/]114.114.114.114
 [/jiniutech.com/]114.114.114.114
-[/jinjianbio.com/]114.114.114.114
 [/jinjiang-group.com/]114.114.114.114
 [/jinjiang.com/]114.114.114.114
 [/jinjianginns.com/]114.114.114.114
@@ -44399,7 +44399,6 @@ https://8.8.8.8/dns-query
 [/jskjcms.com/]114.114.114.114
 [/jsklcy.com/]114.114.114.114
 [/jskpcg.org/]114.114.114.114
-[/jsks-ya.com/]114.114.114.114
 [/jskuajing.com/]114.114.114.114
 [/jskwt.com/]114.114.114.114
 [/jslcjt.com/]114.114.114.114
@@ -64794,7 +64793,6 @@ https://8.8.8.8/dns-query
 [/shfq.com/]114.114.114.114
 [/shfrp.com/]114.114.114.114
 [/shftth.com/]114.114.114.114
-[/shfuju.com/]114.114.114.114
 [/shfxrc.com/]114.114.114.114
 [/shgao.com/]114.114.114.114
 [/shgaoxin.net/]114.114.114.114
@@ -70150,7 +70148,6 @@ https://8.8.8.8/dns-query
 [/tianjin-patek.com/]114.114.114.114
 [/tianjingames.com/]114.114.114.114
 [/tianjingrong.com/]114.114.114.114
-[/tianjinshunma.com/]114.114.114.114
 [/tianjinwe.com/]114.114.114.114
 [/tianjinyijiahua.com/]114.114.114.114
 [/tianjiyy.com/]114.114.114.114
@@ -80447,6 +80444,7 @@ https://8.8.8.8/dns-query
 [/xueyuhuangjinyan.com/]114.114.114.114
 [/xuezhangbb.com/]114.114.114.114
 [/xuezhangya.com/]114.114.114.114
+[/xuezhao.space/]114.114.114.114
 [/xuezhishi88.com/]114.114.114.114
 [/xuezhiyou.com/]114.114.114.114
 [/xuezhouyi.com/]114.114.114.114
@@ -85715,6 +85713,7 @@ https://8.8.8.8/dns-query
 [/zgps168.com/]114.114.114.114
 [/zgpts.com/]114.114.114.114
 [/zgpy168.com/]114.114.114.114
+[/zgq.ink/]114.114.114.114
 [/zgqcdt.com/]114.114.114.114
 [/zgqczj.com/]114.114.114.114
 [/zgqkk.com/]114.114.114.114
