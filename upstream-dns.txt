@@ -14054,6 +14054,7 @@ https://8.8.8.8/dns-query
 [/b-k-automation.com/]114.114.114.114
 [/b-raymedia.com/]114.114.114.114
 [/b.biz/]114.114.114.114
+[/b.c2r.ts.cdn.office.net/]114.114.114.114
 [/b01.net/]114.114.114.114
 [/b02f0d7f3745ba7c.com/]114.114.114.114
 [/b041e427810281.beer/]114.114.114.114
@@ -33811,6 +33812,7 @@ https://8.8.8.8/dns-query
 [/f-insight.com/]114.114.114.114
 [/f-stack.org/]114.114.114.114
 [/f.biz/]114.114.114.114
+[/f.c2r.ts.cdn.office.net/]114.114.114.114
 [/f.cx/]114.114.114.114
 [/f008.com/]114.114.114.114
 [/f015dfc4510292.beer/]114.114.114.114
@@ -81251,6 +81253,7 @@ https://8.8.8.8/dns-query
 [/sheketiandi.com/]114.114.114.114
 [/shekou.com/]114.114.114.114
 [/shelive.net/]114.114.114.114
+[/shell.cdn.office.net/]114.114.114.114
 [/shellpub.com/]114.114.114.114
 [/shellsec.com/]114.114.114.114
 [/shelter-china.com/]114.114.114.114
@@ -85071,6 +85074,7 @@ https://8.8.8.8/dns-query
 [/staticfile.org/]114.114.114.114
 [/statickksmg.com/]114.114.114.114
 [/statics.cc/]114.114.114.114
+[/statics.teams.cdn.office.net/]114.114.114.114
 [/staticsdd.com/]114.114.114.114
 [/staticsoe.com/]114.114.114.114
 [/staticsoem.com/]114.114.114.114
@@ -85784,6 +85788,7 @@ https://8.8.8.8/dns-query
 [/surely.cool/]114.114.114.114
 [/surerp.com/]114.114.114.114
 [/surface.download.prss.microsoft.com/]114.114.114.114
+[/surface.downloads.prss.microsoft.com/]114.114.114.114
 [/surfacetreatmentgroup.com/]114.114.114.114
 [/surfacetreatmenttechnology.com/]114.114.114.114
 [/surfcg.com/]114.114.114.114
